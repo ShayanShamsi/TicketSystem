@@ -1,0 +1,1507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omm-file version="1.0.0">
+  <stations>
+    <station id="473" lat="47.503118" lon="18.989736" name="Adonis utca"/>
+    <station id="20" lat="47.513809" lon="19.095757" name="Ajtósi Dürer sor"/>
+    <station id="122" lat="47.513431" lon="19.096261" name="Ajtósi Dürer sor"/>
+    <station id="401" lat="47.519292" lon="18.994126" name="Akadémia"/>
+    <station id="415" lat="47.519337" lon="18.993900" name="Akadémia"/>
+    <station id="382" lat="47.425912" lon="19.114118" name="Akácfa utca"/>
+    <station id="11" lat="47.472723" lon="19.096118" name="Albert Flórián út"/>
+    <station id="131" lat="47.472390" lon="19.095534" name="Albert Flórián út"/>
+    <station id="64" lat="47.452666" lon="19.038776" name="Albertfalva kitérő"/>
+    <station id="336" lat="47.452172" lon="19.038418" name="Albertfalva kitérő"/>
+    <station id="63" lat="47.447926" lon="19.037583" name="Albertfalva utca"/>
+    <station id="337" lat="47.447620" lon="19.037371" name="Albertfalva utca"/>
+    <station id="76" lat="47.482941" lon="19.030090" name="Alsóhegy utca"/>
+    <station id="65" lat="47.455715" lon="19.039836" name="Andor utca"/>
+    <station id="335" lat="47.456129" lon="19.039889" name="Andor utca"/>
+    <station id="32" lat="47.552916" lon="19.091846" name="Angyalföld kocsiszín"/>
+    <station id="53" lat="47.550363" lon="19.091315" name="Angyalföld vasútállomás"/>
+    <station id="434" lat="47.490402" lon="19.015268" name="Apor Vilmos tér"/>
+    <station id="443" lat="47.490500" lon="19.014857" name="Apor Vilmos tér"/>
+    <station id="533" lat="47.503063" lon="19.054531" name="Arany János utca"/>
+    <station id="324" lat="47.494561" lon="19.059696" name="Astoria"/>
+    <station id="518" lat="47.494364" lon="19.060024" name="Astoria"/>
+    <station id="273" lat="47.490015" lon="19.105515" name="Asztalos Sándor út"/>
+    <station id="288" lat="47.490096" lon="19.105038" name="Asztalos Sándor út"/>
+    <station id="54" lat="47.572575" lon="19.114429" name="Atlétikai stadion"/>
+    <station id="78" lat="47.487190" lon="19.024696" name="BAH-csomópont"/>
+    <station id="178" lat="47.480034" lon="19.162209" name="Bajcsy-Zsilinszky Kórház"/>
+    <station id="188" lat="47.479773" lon="19.162739" name="Bajcsy-Zsilinszky Kórház"/>
+    <station id="367" lat="47.432950" lon="19.206964" name="Bajcsy-Zsilinszky út"/>
+    <station id="510" lat="47.499876" lon="19.055326" name="Bajcsy-Zsilinszky út"/>
+    <station id="505" lat="47.511320" lon="19.072494" name="Bajza utca"/>
+    <station id="311" lat="47.444402" lon="19.005671" name="Balatoni út"/>
+    <station id="253" lat="47.473748" lon="19.115739" name="Balkán utca"/>
+    <station id="149" lat="47.476775" lon="19.081953" name="Balázs Béla utca"/>
+    <station id="361" lat="47.444511" lon="19.175285" name="Baross utca"/>
+    <station id="109" lat="47.506002" lon="19.039456" name="Batthyány tér"/>
+    <station id="520" lat="47.506363" lon="19.039112" name="Batthyány tér"/>
+    <station id="110" lat="47.512082" lon="19.039455" name="Bem József tér"/>
+    <station id="2" lat="47.463603" lon="19.033309" name="Bikás park"/>
+    <station id="543" lat="47.465005" lon="19.033383" name="Bikás park"/>
+    <station id="298" lat="47.496224" lon="19.070672" name="Blaha Lujza tér"/>
+    <station id="457" lat="47.496781" lon="19.070699" name="Blaha Lujza tér"/>
+    <station id="517" lat="47.497097" lon="19.070595" name="Blaha Lujza tér"/>
+    <station id="158" lat="47.495648" lon="19.072742" name="Blaha Lujza tér M (Népszínház utca)"/>
+    <station id="206" lat="47.495999" lon="19.071283" name="Blaha Lujza tér M (Népszínház utca)"/>
+    <station id="371" lat="47.479503" lon="19.072230" name="Bokréta utca"/>
+    <station id="373" lat="47.479116" lon="19.072655" name="Bokréta utca"/>
+    <station id="143" lat="47.479693" lon="19.066300" name="Boráros tér"/>
+    <station id="235" lat="47.480043" lon="19.066075" name="Boráros tér"/>
+    <station id="303" lat="47.480125" lon="19.066075" name="Boráros tér"/>
+    <station id="452" lat="47.480376" lon="19.066698" name="Boráros tér"/>
+    <station id="266" lat="47.519152" lon="19.112637" name="Bosnyák tér"/>
+    <station id="487" lat="47.519458" lon="19.111761" name="Bosnyák tér"/>
+    <station id="61" lat="47.441783" lon="19.036577" name="Budafok kocsiszín"/>
+    <station id="339" lat="47.441414" lon="19.036378" name="Budafok kocsiszín"/>
+    <station id="316" lat="47.435415" lon="19.036207" name="Budafoki elágazás"/>
+    <station id="340" lat="47.434785" lon="19.036420" name="Budafoki elágazás"/>
+    <station id="389" lat="47.435460" lon="19.036433" name="Budafoki elágazás"/>
+    <station id="6" lat="47.469646" lon="19.054384" name="Budafoki út / Dombóvári út"/>
+    <station id="450" lat="47.475827" lon="19.054107" name="Budafoki út / Karinthy Frigyes út"/>
+    <station id="305" lat="47.473677" lon="19.052807" name="Budafoki út / Szerémi sor"/>
+    <station id="400" lat="47.516092" lon="18.999188" name="Budagyöngye"/>
+    <station id="416" lat="47.516146" lon="18.998975" name="Budagyöngye"/>
+    <station id="438" lat="47.515894" lon="18.999506" name="Budagyöngye"/>
+    <station id="77" lat="47.484109" lon="19.026812" name="Budaörsi út / Villányi út"/>
+    <station id="1" lat="47.464088" lon="19.029635" name="Bártfai utca"/>
+    <station id="31" lat="47.548768" lon="19.029379" name="Bécsi út / Vörösvári út"/>
+    <station id="95" lat="47.546762" lon="19.029194" name="Bécsi út / Vörösvári út"/>
+    <station id="96" lat="47.548489" lon="19.028994" name="Bécsi út / Vörösvári út"/>
+    <station id="48" lat="47.529745" lon="19.080488" name="Béke tér"/>
+    <station id="58" lat="47.587809" lon="19.118370" name="Bőrfestő utca"/>
+    <station id="57" lat="47.585597" lon="19.117490" name="Bőröndös utca"/>
+    <station id="107" lat="47.497665" lon="19.041541" name="Clark Ádám tér"/>
+    <station id="317" lat="47.460399" lon="19.131663" name="Corvin körút"/>
+    <station id="351" lat="47.462079" lon="19.134120" name="Corvin körút"/>
+    <station id="301" lat="47.486186" lon="19.070057" name="Corvin-negyed"/>
+    <station id="454" lat="47.485476" lon="19.069898" name="Corvin-negyed"/>
+    <station id="530" lat="47.485869" lon="19.069984" name="Corvin-negyed"/>
+    <station id="250" lat="47.463444" lon="19.109691" name="Csengettyű utca"/>
+    <station id="69" lat="47.470259" lon="19.045087" name="Csonka János tér"/>
+    <station id="331" lat="47.469783" lon="19.044821" name="Csonka János tér"/>
+    <station id="99" lat="47.470851" lon="19.029195" name="Csóka utca (Karinthy Színház)"/>
+    <station id="348" lat="47.470698" lon="19.028585" name="Csóka utca (Karinthy Színház)"/>
+    <station id="79" lat="47.490782" lon="19.024447" name="Csörsz utca"/>
+    <station id="323" lat="47.497413" lon="19.055158" name="Deák Ferenc tér"/>
+    <station id="511" lat="47.497771" lon="19.054510" name="Deák Ferenc tér"/>
+    <station id="155" lat="47.496364" lon="19.083399" name="Dologház utca"/>
+    <station id="82" lat="47.501106" lon="19.024177" name="Déli pályaudvar"/>
+    <station id="394" lat="47.501071" lon="19.024671" name="Déli pályaudvar"/>
+    <station id="422" lat="47.500801" lon="19.024990" name="Déli pályaudvar"/>
+    <station id="439" lat="47.500848" lon="19.024021" name="Déli pályaudvar"/>
+    <station id="522" lat="47.500375" lon="19.024802" name="Déli pályaudvar"/>
+    <station id="44" lat="47.518710" lon="19.065238" name="Dévai utca"/>
+    <station id="391" lat="47.493698" lon="19.038463" name="Dózsa György tér"/>
+    <station id="425" lat="47.493770" lon="19.038224" name="Dózsa György tér"/>
+    <station id="536" lat="47.524585" lon="19.063323" name="Dózsa György út"/>
+    <station id="390" lat="47.491737" lon="19.043373" name="Döbrentei tér"/>
+    <station id="426" lat="47.491486" lon="19.043705" name="Döbrentei tér"/>
+    <station id="252" lat="47.471260" lon="19.109422" name="Ecseri út"/>
+    <station id="526" lat="47.470893" lon="19.110921" name="Ecseri út"/>
+    <station id="264" lat="47.514560" lon="19.120610" name="Egressy tér"/>
+    <station id="489" lat="47.514875" lon="19.119827" name="Egressy tér"/>
+    <station id="18" lat="47.507177" lon="19.104050" name="Egressy út / Hungária körút"/>
+    <station id="124" lat="47.506744" lon="19.104445" name="Egressy út / Hungária körút"/>
+    <station id="167" lat="47.484018" lon="19.117198" name="Egészségház"/>
+    <station id="199" lat="47.484081" lon="19.117318" name="Egészségház"/>
+    <station id="166" lat="47.485136" lon="19.113100" name="Eiffel Műhelyház"/>
+    <station id="200" lat="47.485009" lon="19.113882" name="Eiffel Műhelyház"/>
+    <station id="151" lat="47.481763" lon="19.093460" name="Elnök utca"/>
+    <station id="249" lat="47.459683" lon="19.111743" name="Epreserdő utca"/>
+    <station id="472" lat="47.507204" lon="18.994364" name="Erdei iskola"/>
+    <station id="21" lat="47.516810" lon="19.091387" name="Erzsébet királyné útja, aluljáró"/>
+    <station id="121" lat="47.516400" lon="19.091909" name="Erzsébet királyné útja, aluljáró"/>
+    <station id="270" lat="47.517821" lon="19.093052" name="Erzsébet királyné útja, aluljáró"/>
+    <station id="471" lat="47.507304" lon="18.997935" name="Esze Tamás iskola"/>
+    <station id="3" lat="47.462254" lon="19.043363" name="Etele út / Fehérvári út"/>
+    <station id="67" lat="47.463398" lon="19.042572" name="Etele út / Fehérvári út"/>
+    <station id="333" lat="47.462639" lon="19.042274" name="Etele út / Fehérvári út"/>
+    <station id="138" lat="47.497944" lon="19.047022" name="Eötvös tér"/>
+    <station id="240" lat="47.497827" lon="19.047168" name="Eötvös tér"/>
+    <station id="430" lat="47.484282" lon="19.005679" name="Farkasréti temető"/>
+    <station id="447" lat="47.483923" lon="19.005374" name="Farkasréti temető"/>
+    <station id="224" lat="47.448322" lon="19.094227" name="Fegyvergyár utca"/>
+    <station id="258" lat="47.499510" lon="19.137564" name="Fehér úti ipari park"/>
+    <station id="495" lat="47.499897" lon="19.137353" name="Fehér úti ipari park"/>
+    <station id="532" lat="47.493136" lon="19.055890" name="Ferenciek tere"/>
+    <station id="10" lat="47.470305" lon="19.089313" name="Ferencváros vá. - Málenkij Robot Eh."/>
+    <station id="132" lat="47.470172" lon="19.088529" name="Ferencváros vá. - Málenkij Robot Eh."/>
+    <station id="374" lat="47.477155" lon="19.075785" name="Ferencvárosi rendelőintézet"/>
+    <station id="254" lat="47.475742" lon="19.118819" name="Fertő utca / Bihari utca"/>
+    <station id="50" lat="47.540537" lon="19.085874" name="Fiastyúk utca"/>
+    <station id="29" lat="47.541517" lon="19.039960" name="Flórián tér"/>
+    <station id="113" lat="47.541109" lon="19.040538" name="Flórián tér"/>
+    <station id="62" lat="47.443789" lon="19.036908" name="Fonyód utca"/>
+    <station id="338" lat="47.443483" lon="19.036709" name="Fonyód utca"/>
+    <station id="538" lat="47.539243" lon="19.069512" name="Forgách utca"/>
+    <station id="49" lat="47.534365" lon="19.082521" name="Frangepán utca"/>
+    <station id="309" lat="47.445340" lon="18.991471" name="Fülőke utca"/>
+    <station id="498" lat="47.542184" lon="19.140997" name="Fő tér"/>
+    <station id="354" lat="47.456321" lon="19.147610" name="Fő utca"/>
+    <station id="41" lat="47.566446" lon="19.122488" name="Fő út"/>
+    <station id="141" lat="47.486862" lon="19.056602" name="Fővám tér"/>
+    <station id="237" lat="47.486754" lon="19.056841" name="Fővám tér"/>
+    <station id="326" lat="47.486916" lon="19.057240" name="Fővám tér"/>
+    <station id="547" lat="47.486401" lon="19.057320" name="Fővám tér"/>
+    <station id="483" lat="47.526272" lon="19.104973" name="Fűrész utca"/>
+    <station id="175" lat="47.487085" lon="19.152889" name="Gitár utca"/>
+    <station id="191" lat="47.487031" lon="19.153055" name="Gitár utca"/>
+    <station id="152" lat="47.485469" lon="19.092919" name="Golgota tér"/>
+    <station id="223" lat="47.444292" lon="19.096530" name="Gubacsi út / Határ út"/>
+    <station id="244" lat="47.443779" lon="19.096742" name="Gubacsi út / Határ út"/>
+    <station id="52" lat="47.546217" lon="19.089038" name="Gyöngyösi utca"/>
+    <station id="539" lat="47.548889" lon="19.073265" name="Gyöngyösi utca"/>
+    <station id="103" lat="47.480522" lon="19.051932" name="Gárdonyi tér"/>
+    <station id="328" lat="47.479991" lon="19.051428" name="Gárdonyi tér"/>
+    <station id="40" lat="47.568355" lon="19.118052" name="Géza fejedelem tér"/>
+    <station id="26" lat="47.532219" lon="19.067300" name="Göncz Árpád városközpont"/>
+    <station id="116" lat="47.532974" lon="19.066119" name="Göncz Árpád városközpont"/>
+    <station id="537" lat="47.532722" lon="19.066804" name="Göncz Árpád városközpont"/>
+    <station id="148" lat="47.476057" lon="19.076819" name="Haller utca / Mester utca"/>
+    <station id="233" lat="47.476021" lon="19.076355" name="Haller utca / Mester utca"/>
+    <station id="370" lat="47.475906" lon="19.077636" name="Haller utca / Mester utca"/>
+    <station id="375" lat="47.475625" lon="19.077774" name="Haller utca / Mester utca"/>
+    <station id="144" lat="47.473981" lon="19.070649" name="Haller utca / Soroksári út"/>
+    <station id="147" lat="47.475285" lon="19.071658" name="Haller utca / Soroksári út"/>
+    <station id="234" lat="47.475726" lon="19.069363" name="Haller utca / Soroksári út"/>
+    <station id="278" lat="47.490046" lon="19.128353" name="Halom utca"/>
+    <station id="283" lat="47.490163" lon="19.128618" name="Halom utca"/>
+    <station id="108" lat="47.501784" lon="19.040028" name="Halász utca"/>
+    <station id="300" lat="47.489559" lon="19.070589" name="Harminckettesek tere"/>
+    <station id="455" lat="47.490332" lon="19.070815" name="Harminckettesek tere"/>
+    <station id="207" lat="47.465008" lon="19.126180" name="Határ út"/>
+    <station id="350" lat="47.465151" lon="19.127254" name="Határ út"/>
+    <station id="524" lat="47.465394" lon="19.126672" name="Határ út"/>
+    <station id="68" lat="47.467039" lon="19.043919" name="Hauszmann Alajos utca"/>
+    <station id="332" lat="47.467345" lon="19.043933" name="Hauszmann Alajos utca"/>
+    <station id="5" lat="47.467013" lon="19.049756" name="Hauszmann Alajos utca / Szerémi út"/>
+    <station id="407" lat="47.539461" lon="18.970264" name="Heinrich István utca"/>
+    <station id="409" lat="47.539281" lon="18.970689" name="Heinrich István utca"/>
+    <station id="4" lat="47.462551" lon="19.048509" name="Hengermalom út / Szerémi út"/>
+    <station id="229" lat="47.462600" lon="19.084411" name="Hentes utca"/>
+    <station id="15" lat="47.491164" lon="19.108967" name="Hidegkuti Nándor Stadion"/>
+    <station id="127" lat="47.490690" lon="19.108910" name="Hidegkuti Nándor Stadion"/>
+    <station id="274" lat="47.490040" lon="19.108249" name="Hidegkuti Nándor Stadion"/>
+    <station id="287" lat="47.490192" lon="19.109669" name="Hidegkuti Nándor Stadion"/>
+    <station id="366" lat="47.434801" lon="19.201495" name="Honvéd utca"/>
+    <station id="25" lat="47.530449" lon="19.070169" name="Honvédkórház"/>
+    <station id="117" lat="47.530041" lon="19.070699" name="Honvédkórház"/>
+    <station id="46" lat="47.523961" lon="19.074946" name="Hun utca"/>
+    <station id="318" lat="47.456311" lon="19.137412" name="Hungária út (Rendőrség)"/>
+    <station id="16" lat="47.496282" lon="19.109135" name="Hős utca"/>
+    <station id="126" lat="47.495706" lon="19.109078" name="Hős utca"/>
+    <station id="504" lat="47.514255" lon="19.076844" name="Hősök tere"/>
+    <station id="408" lat="47.543243" lon="18.964281" name="Hűvösvölgy"/>
+    <station id="159" lat="47.494819" lon="19.076550" name="II. János Pál pápa tér"/>
+    <station id="205" lat="47.494666" lon="19.077599" name="II. János Pál pápa tér"/>
+    <station id="549" lat="47.495300" lon="19.077244" name="II. János Pál pápa tér"/>
+    <station id="226" lat="47.453621" lon="19.091248" name="Illatos út"/>
+    <station id="7" lat="47.469072" lon="19.060500" name="Infopark"/>
+    <station id="365" lat="47.436689" lon="19.195933" name="Iparvasút"/>
+    <station id="183" lat="47.479379" lon="19.177889" name="Izraelita temető"/>
+    <station id="263" lat="47.511553" lon="19.125703" name="Jeszenák János utca"/>
+    <station id="490" lat="47.511733" lon="19.125199" name="Jeszenák János utca"/>
+    <station id="214" lat="47.441708" lon="19.102560" name="János tér"/>
+    <station id="56" lat="47.582539" lon="19.117047" name="Járműtelep utca"/>
+    <station id="134" lat="47.512811" lon="19.047938" name="Jászai Mari tér"/>
+    <station id="293" lat="47.512847" lon="19.048841" name="Jászai Mari tér"/>
+    <station id="462" lat="47.513099" lon="19.048177" name="Jászai Mari tér"/>
+    <station id="174" lat="47.490253" lon="19.148647" name="Jászberényi út / Maglódi út"/>
+    <station id="192" lat="47.490048" lon="19.149080" name="Jászberényi út / Maglódi út"/>
+    <station id="211" lat="47.449010" lon="19.104503" name="Jókai Mór utca / Határ út"/>
+    <station id="222" lat="47.448560" lon="19.104980" name="Jókai Mór utca / Határ út"/>
+    <station id="246" lat="47.448642" lon="19.104145" name="Jókai Mór utca / Határ út"/>
+    <station id="22" lat="47.519064" lon="19.088114" name="Kacsóh Pongrác út"/>
+    <station id="120" lat="47.518677" lon="19.088565" name="Kacsóh Pongrác út"/>
+    <station id="177" lat="47.482897" lon="19.158401" name="Kada utca / Maglódi út"/>
+    <station id="189" lat="47.482709" lon="19.158738" name="Kada utca / Maglódi út"/>
+    <station id="66" lat="47.458827" lon="19.040976" name="Kalotaszeg utca"/>
+    <station id="334" lat="47.459178" lon="19.041003" name="Kalotaszeg utca"/>
+    <station id="307" lat="47.441160" lon="18.979490" name="Kamaraerdei Ifjúsági Park"/>
+    <station id="100" lat="47.472838" lon="19.033676" name="Karolina út"/>
+    <station id="347" lat="47.472696" lon="19.033201" name="Karolina út"/>
+    <station id="91" lat="47.532615" lon="19.036517" name="Katinyi mártírok parkja"/>
+    <station id="402" lat="47.521952" lon="18.990326" name="Kelemen László utca"/>
+    <station id="414" lat="47.521602" lon="18.990632" name="Kelemen László utca"/>
+    <station id="0" lat="47.464473" lon="19.023388" name="Kelenföld vasútállomás"/>
+    <station id="97" lat="47.465732" lon="19.021875" name="Kelenföld vasútállomás"/>
+    <station id="542" lat="47.464299" lon="19.019717" name="Kelenföld vasútállomás"/>
+    <station id="312" lat="47.443505" lon="19.012062" name="Kelenvölgy-Péterhegy"/>
+    <station id="156" lat="47.499315" lon="19.082552" name="Keleti pályaudvar"/>
+    <station id="516" lat="47.500090" lon="19.081794" name="Keleti pályaudvar"/>
+    <station id="360" lat="47.445783" lon="19.172318" name="Kemény Zsigmond utca"/>
+    <station id="267" lat="47.521278" lon="19.106266" name="Kerékgyártó utca"/>
+    <station id="486" lat="47.521296" lon="19.105828" name="Kerékgyártó utca"/>
+    <station id="296" lat="47.502781" lon="19.066202" name="Király utca / Erzsébet körút"/>
+    <station id="459" lat="47.503249" lon="19.065830" name="Király utca / Erzsébet körút"/>
+    <station id="436" lat="47.494972" lon="19.019260" name="Királyhágó tér"/>
+    <station id="441" lat="47.495521" lon="19.019711" name="Királyhágó tér"/>
+    <station id="80" lat="47.494839" lon="19.023732" name="Királyhágó utca"/>
+    <station id="322" lat="47.445694" lon="19.152669" name="Kispest, Tulipán utca"/>
+    <station id="36" lat="47.564940" lon="19.094620" name="Kiss Ernő utca"/>
+    <station id="435" lat="47.492498" lon="19.016647" name="Kiss János altábornagy utca"/>
+    <station id="442" lat="47.492273" lon="19.016461" name="Kiss János altábornagy utca"/>
+    <station id="381" lat="47.428684" lon="19.111179" name="Klapka utca"/>
+    <station id="176" lat="47.484933" lon="19.155718" name="Kocka utca"/>
+    <station id="190" lat="47.484879" lon="19.155970" name="Kocka utca"/>
+    <station id="255" lat="47.478878" lon="19.123878" name="Kocsis Sándor Sportközpont"/>
+    <station id="506" lat="47.509234" lon="19.069341" name="Kodály körönd"/>
+    <station id="90" lat="47.527983" lon="19.037660" name="Kolosy tér"/>
+    <station id="88" lat="47.520635" lon="19.036798" name="Komjádi Béla utca"/>
+    <station id="230" lat="47.465989" lon="19.081497" name="Koppány utca"/>
+    <station id="378" lat="47.466162" lon="19.081204" name="Koppány utca"/>
+    <station id="136" lat="47.505732" lon="19.046836" name="Kossuth Lajos tér"/>
+    <station id="242" lat="47.505679" lon="19.047288" name="Kossuth Lajos tér"/>
+    <station id="519" lat="47.505475" lon="19.046620" name="Kossuth Lajos tér"/>
+    <station id="215" lat="47.439382" lon="19.105570" name="Kossuth Lajos utca"/>
+    <station id="220" lat="47.443178" lon="19.112624" name="Kossuth Lajos utca"/>
+    <station id="320" lat="47.450152" lon="19.146167" name="Kossuth Lajos utca / Ady Endre út"/>
+    <station id="353" lat="47.457501" lon="19.144841" name="Kossuth tér"/>
+    <station id="101" lat="47.475179" lon="19.040191" name="Kosztolányi Dezső tér"/>
+    <station id="346" lat="47.474990" lon="19.039382" name="Kosztolányi Dezső tér"/>
+    <station id="392" lat="47.496621" lon="19.032847" name="Krisztina tér"/>
+    <station id="424" lat="47.496881" lon="19.032117" name="Krisztina tér"/>
+    <station id="325" lat="47.489219" lon="19.061248" name="Kálvin tér"/>
+    <station id="531" lat="47.489628" lon="19.061654" name="Kálvin tér"/>
+    <station id="59" lat="47.593420" lon="19.120491" name="Káposztásmegyer, Megyeri út"/>
+    <station id="383" lat="47.423235" lon="19.117014" name="Károly utca"/>
+    <station id="437" lat="47.497814" lon="19.021129" name="Kék Golyó utca"/>
+    <station id="440" lat="47.497571" lon="19.020891" name="Kék Golyó utca"/>
+    <station id="227" lat="47.457319" lon="19.089142" name="Kén utca"/>
+    <station id="251" lat="47.468140" lon="19.107681" name="Közterületfenntartó Zrt."/>
+    <station id="8" lat="47.468737" lon="19.073486" name="Közvágóhíd"/>
+    <station id="146" lat="47.467504" lon="19.075899" name="Közvágóhíd"/>
+    <station id="169" lat="47.482355" lon="19.129429" name="Kőbánya alsó vasútállomás"/>
+    <station id="197" lat="47.482464" lon="19.128487" name="Kőbánya alsó vasútállomás"/>
+    <station id="256" lat="47.481718" lon="19.127066" name="Kőbánya alsó vasútállomás (Mázsa tér)"/>
+    <station id="279" lat="47.490825" lon="19.132932" name="Kőbánya felső vasútállomás"/>
+    <station id="282" lat="47.490942" lon="19.133158" name="Kőbánya felső vasútállomás"/>
+    <station id="523" lat="47.463437" lon="19.148625" name="Kőbánya-Kispest [D]"/>
+    <station id="275" lat="47.490586" lon="19.113995" name="Kőbányai garázs"/>
+    <station id="286" lat="47.490712" lon="19.114248" name="Kőbányai garázs"/>
+    <station id="14" lat="47.486236" lon="19.107515" name="Kőbányai út / Könyves Kálmán körút"/>
+    <station id="128" lat="47.485742" lon="19.107077" name="Kőbányai út / Könyves Kálmán körút"/>
+    <station id="165" lat="47.486343" lon="19.108577" name="Kőbányai út / Könyves Kálmán körút"/>
+    <station id="201" lat="47.486524" lon="19.108205" name="Kőbányai út / Könyves Kálmán körút"/>
+    <station id="163" lat="47.488949" lon="19.095496" name="Kőbányai út 21."/>
+    <station id="203" lat="47.488985" lon="19.095841" name="Kőbányai út 21."/>
+    <station id="164" lat="47.487614" lon="19.103854" name="Kőbányai út 31."/>
+    <station id="202" lat="47.487632" lon="19.104120" name="Kőbányai út 31."/>
+    <station id="310" lat="47.445218" lon="19.000036" name="Kőérberek"/>
+    <station id="357" lat="47.450994" lon="19.160104" name="Lajosmizsei sorompó"/>
+    <station id="269" lat="47.519977" lon="19.097729" name="Laky Adolf utca"/>
+    <station id="43" lat="47.517354" lon="19.060723" name="Lehel tér"/>
+    <station id="535" lat="47.518118" lon="19.060547" name="Lehel tér"/>
+    <station id="352" lat="47.459475" lon="19.140256" name="Lehel utca"/>
+    <station id="45" lat="47.520751" lon="19.069009" name="Lehel utca / Dózsa György út"/>
+    <station id="24" lat="47.526200" lon="19.076952" name="Lehel utca / Róbert Károly körút"/>
+    <station id="47" lat="47.526244" lon="19.078506" name="Lehel utca / Róbert Károly körút"/>
+    <station id="118" lat="47.525797" lon="19.077524" name="Lehel utca / Róbert Károly körút"/>
+    <station id="341" lat="47.432195" lon="19.037229" name="Leányka utcai lakótelep"/>
+    <station id="388" lat="47.432501" lon="19.037282" name="Leányka utcai lakótelep"/>
+    <station id="431" lat="47.486010" lon="19.007071" name="Liptó utca"/>
+    <station id="446" lat="47.486100" lon="19.007031" name="Liptó utca"/>
+    <station id="364" lat="47.437646" lon="19.193085" name="Madarász utca"/>
+    <station id="154" lat="47.492873" lon="19.087298" name="Magdolna utca"/>
+    <station id="161" lat="47.492234" lon="19.087870" name="Magdolna utca"/>
+    <station id="228" lat="47.459702" lon="19.087871" name="Magyar Aszfalt"/>
+    <station id="86" lat="47.515122" lon="19.037158" name="Margit híd, budai hídfő"/>
+    <station id="111" lat="47.515149" lon="19.037569" name="Margit híd, budai hídfő"/>
+    <station id="291" lat="47.514546" lon="19.038897" name="Margit híd, budai hídfő"/>
+    <station id="464" lat="47.514618" lon="19.038193" name="Margit híd, budai hídfő"/>
+    <station id="292" lat="47.514439" lon="19.044327" name="Margitsziget / Margit híd"/>
+    <station id="463" lat="47.514717" lon="19.042521" name="Margitsziget / Margit híd"/>
+    <station id="359" lat="47.447910" lon="19.167324" name="Margó Tivadar utca"/>
+    <station id="85" lat="47.510939" lon="19.032114" name="Mechwart liget"/>
+    <station id="465" lat="47.510778" lon="19.031462" name="Mechwart liget"/>
+    <station id="302" lat="47.482184" lon="19.068463" name="Mester utca / Ferenc körút"/>
+    <station id="372" lat="47.481608" lon="19.068702" name="Mester utca / Ferenc körút"/>
+    <station id="453" lat="47.482751" lon="19.068848" name="Mester utca / Ferenc körút"/>
+    <station id="9" lat="47.469723" lon="19.084482" name="Mester utca / Könyves Kálmán körút"/>
+    <station id="133" lat="47.469596" lon="19.083728" name="Mester utca / Könyves Kálmán körút"/>
+    <station id="231" lat="47.470226" lon="19.082760" name="Mester utca / Könyves Kálmán körút"/>
+    <station id="377" lat="47.469814" lon="19.082997" name="Mester utca / Könyves Kálmán körút"/>
+    <station id="271" lat="47.519261" lon="19.091048" name="Mexikói út"/>
+    <station id="502" lat="47.519611" lon="19.091089" name="Mexikói út"/>
+    <station id="393" lat="47.498365" lon="19.028997" name="Mikó utca"/>
+    <station id="423" lat="47.498374" lon="19.028747" name="Mikó utca"/>
+    <station id="481" lat="47.532527" lon="19.110648" name="Miskolci utca"/>
+    <station id="140" lat="47.490694" lon="19.051654" name="Március 15. tér"/>
+    <station id="238" lat="47.490883" lon="19.051614" name="Március 15. tér"/>
+    <station id="428" lat="47.481680" lon="18.999021" name="Márton Áron tér"/>
+    <station id="210" lat="47.452039" lon="19.109095" name="Mártírok útja / Határ út"/>
+    <station id="247" lat="47.451841" lon="19.108975" name="Mártírok útja / Határ út"/>
+    <station id="168" lat="47.483106" lon="19.123287" name="Mázsa utca"/>
+    <station id="198" lat="47.483195" lon="19.123384" name="Mázsa utca"/>
+    <station id="208" lat="47.459714" lon="19.120363" name="Mészáros Lőrinc utca"/>
+    <station id="71" lat="47.477248" lon="19.047328" name="Móricz Zsigmond körtér"/>
+    <station id="72" lat="47.478074" lon="19.044899" name="Móricz Zsigmond körtér"/>
+    <station id="102" lat="47.477491" lon="19.046864" name="Móricz Zsigmond körtér"/>
+    <station id="329" lat="47.476836" lon="19.047188" name="Móricz Zsigmond körtér"/>
+    <station id="345" lat="47.477374" lon="19.046161" name="Móricz Zsigmond körtér"/>
+    <station id="449" lat="47.477499" lon="19.048349" name="Móricz Zsigmond körtér"/>
+    <station id="545" lat="47.477362" lon="19.047272" name="Móricz Zsigmond körtér"/>
+    <station id="145" lat="47.470958" lon="19.073182" name="Müpa - Nemzeti Színház"/>
+    <station id="157" lat="47.471255" lon="19.072969" name="Müpa - Nemzeti Színház"/>
+    <station id="476" lat="47.496198" lon="18.983838" name="Művész út"/>
+    <station id="268" lat="47.522386" lon="19.102443" name="Nagy Lajos király útja / Czobor utca"/>
+    <station id="484" lat="47.522800" lon="19.101992" name="Nagy Lajos király útja / Czobor utca"/>
+    <station id="485" lat="47.522170" lon="19.102815" name="Nagy Lajos király útja / Czobor utca"/>
+    <station id="399" lat="47.513548" lon="19.002854" name="Nagyajtai utca"/>
+    <station id="417" lat="47.513548" lon="19.002642" name="Nagyajtai utca"/>
+    <station id="81" lat="47.498335" lon="19.024011" name="Nagyenyed utca"/>
+    <station id="404" lat="47.528541" lon="18.983692" name="Nagyhíd"/>
+    <station id="412" lat="47.528245" lon="18.983825" name="Nagyhíd"/>
+    <station id="209" lat="47.455443" lon="19.114062" name="Nagykőrösi út / Határ út"/>
+    <station id="248" lat="47.455742" lon="19.114682" name="Nagykőrösi út / Határ út"/>
+    <station id="216" lat="47.436020" lon="19.109554" name="Nagysándor József utca"/>
+    <station id="150" lat="47.479489" lon="19.090340" name="Nagyvárad tér"/>
+    <station id="528" lat="47.479161" lon="19.089542" name="Nagyvárad tér"/>
+    <station id="294" lat="47.509896" lon="19.056659" name="Nyugati pályaudvar"/>
+    <station id="461" lat="47.510274" lon="19.056168" name="Nyugati pályaudvar"/>
+    <station id="534" lat="47.510768" lon="19.056111" name="Nyugati pályaudvar"/>
+    <station id="396" lat="47.508723" lon="19.018044" name="Nyúl utca"/>
+    <station id="420" lat="47.508669" lon="19.017872" name="Nyúl utca"/>
+    <station id="27" lat="47.536294" lon="19.058868" name="Népfürdő utca / Árpád híd"/>
+    <station id="115" lat="47.536087" lon="19.059532" name="Népfürdő utca / Árpád híd"/>
+    <station id="12" lat="47.476294" lon="19.099288" name="Népliget"/>
+    <station id="130" lat="47.475879" lon="19.098907" name="Népliget"/>
+    <station id="527" lat="47.475518" lon="19.098694" name="Népliget"/>
+    <station id="295" lat="47.505561" lon="19.062871" name="Oktogon"/>
+    <station id="460" lat="47.505939" lon="19.062406" name="Oktogon"/>
+    <station id="508" lat="47.505083" lon="19.063168" name="Oktogon"/>
+    <station id="509" lat="47.502243" lon="19.058873" name="Opera"/>
+    <station id="153" lat="47.490273" lon="19.090204" name="Orczy tér"/>
+    <station id="162" lat="47.489805" lon="19.090560" name="Orczy tér"/>
+    <station id="470" lat="47.506713" lon="19.002501" name="Orgonás"/>
+    <station id="135" lat="47.508853" lon="19.046584" name="Országház, látogatóközpont"/>
+    <station id="243" lat="47.509150" lon="19.046770" name="Országház, látogatóközpont"/>
+    <station id="385" lat="47.422179" lon="19.122499" name="Pesterzsébet, Pacsirtatelep"/>
+    <station id="369" lat="47.429346" lon="19.217836" name="Pestszentlőrinc, Béke tér"/>
+    <station id="75" lat="47.481864" lon="19.032616" name="Pető Intézet (Villányi út)"/>
+    <station id="304" lat="47.476672" lon="19.058963" name="Petőfi híd, budai hídfő"/>
+    <station id="451" lat="47.476933" lon="19.059586" name="Petőfi híd, budai hídfő"/>
+    <station id="514" lat="47.501310" lon="19.120057" name="Pillangó utca"/>
+    <station id="276" lat="47.491221" lon="19.120286" name="Pongrácz úti lakótelep"/>
+    <station id="285" lat="47.491293" lon="19.119782" name="Pongrácz úti lakótelep"/>
+    <station id="262" lat="47.509330" lon="19.129449" name="Pongrátz Gergely tér"/>
+    <station id="491" lat="47.509482" lon="19.128993" name="Pongrátz Gergely tér"/>
+    <station id="17" lat="47.500950" lon="19.108089" name="Puskás Ferenc Stadion"/>
+    <station id="125" lat="47.500387" lon="19.108151" name="Puskás Ferenc Stadion"/>
+    <station id="515" lat="47.500266" lon="19.105988" name="Puskás Ferenc Stadion"/>
+    <station id="313" lat="47.442283" lon="19.018507" name="Pék utca"/>
+    <station id="380" lat="47.430714" lon="19.108964" name="Pöltenberg utca"/>
+    <station id="525" lat="47.468420" lon="19.117361" name="Pöttyös utca"/>
+    <station id="308" lat="47.444609" lon="18.986738" name="Repülőtér"/>
+    <station id="51" lat="47.542539" lon="19.087016" name="Rokolya utca"/>
+    <station id="105" lat="47.490110" lon="19.047195" name="Rudas Gyógyfürdő"/>
+    <station id="427" lat="47.489824" lon="19.047383" name="Rudas Gyógyfürdő"/>
+    <station id="42" lat="47.567577" lon="19.125360" name="Rákospalota, Kossuth utca"/>
+    <station id="478" lat="47.541389" lon="19.120939" name="Rákospalota, MÁV-telep"/>
+    <station id="39" lat="47.566227" lon="19.111896" name="Rákospalota-Újpest vasútállomás"/>
+    <station id="482" lat="47.529228" lon="19.107563" name="Rákospatak utca"/>
+    <station id="299" lat="47.492383" lon="19.071016" name="Rákóczi tér"/>
+    <station id="456" lat="47.492851" lon="19.071188" name="Rákóczi tér"/>
+    <station id="548" lat="47.492722" lon="19.071817" name="Rákóczi tér"/>
+    <station id="315" lat="47.438193" lon="19.030705" name="Rózsavölgy alsó"/>
+    <station id="314" lat="47.441025" lon="19.022882" name="Rózsavölgy felső"/>
+    <station id="272" lat="47.490864" lon="19.097037" name="Salgótarjáni utca, temető"/>
+    <station id="289" lat="47.491026" lon="19.096334" name="Salgótarjáni utca, temető"/>
+    <station id="60" lat="47.435847" lon="19.042385" name="Savoya Park"/>
+    <station id="344" lat="47.435991" lon="19.041510" name="Savoya Park"/>
+    <station id="342" lat="47.429875" lon="19.037786" name="Savoyai Jenő tér"/>
+    <station id="387" lat="47.429614" lon="19.037879" name="Savoyai Jenő tér"/>
+    <station id="92" lat="47.535754" lon="19.033700" name="Selmeci utca"/>
+    <station id="529" lat="47.482834" lon="19.079176" name="Semmelweis Klinikák"/>
+    <station id="475" lat="47.497398" lon="18.989331" name="Svábhegy"/>
+    <station id="219" lat="47.440369" lon="19.116638" name="Szabótelep"/>
+    <station id="363" lat="47.439975" lon="19.186105" name="Szarvas csárda tér"/>
+    <station id="104" lat="47.483616" lon="19.053537" name="Szent Gellért tér - Műegyetem"/>
+    <station id="327" lat="47.483337" lon="19.053086" name="Szent Gellért tér - Műegyetem"/>
+    <station id="546" lat="47.483245" lon="19.054249" name="Szent Gellért tér - Műegyetem"/>
+    <station id="98" lat="47.468620" lon="19.024102" name="Szent Gellért-templom"/>
+    <station id="349" lat="47.468566" lon="19.023744" name="Szent Gellért-templom"/>
+    <station id="217" lat="47.436657" lon="19.112338" name="Szent Imre herceg utca"/>
+    <station id="35" lat="47.563170" lon="19.090765" name="Szent István tér (Újpesti piac)"/>
+    <station id="398" lat="47.509837" lon="19.009411" name="Szent János Kórház"/>
+    <station id="418" lat="47.509728" lon="19.009813" name="Szent János Kórház"/>
+    <station id="469" lat="47.508145" lon="19.008248" name="Szent János Kórház"/>
+    <station id="87" lat="47.517118" lon="19.036533" name="Szent Lukács Gyógyfürdő"/>
+    <station id="170" lat="47.485304" lon="19.131729" name="Szent László tér"/>
+    <station id="196" lat="47.484998" lon="19.131569" name="Szent László tér"/>
+    <station id="93" lat="47.540637" lon="19.030923" name="Szent Margit Kórház"/>
+    <station id="28" lat="47.539593" lon="19.045207" name="Szentlélek tér"/>
+    <station id="114" lat="47.539377" lon="19.045937" name="Szentlélek tér"/>
+    <station id="501" lat="47.546848" lon="19.127101" name="Szerencs utca / Bánkút utca"/>
+    <station id="265" lat="47.517144" lon="19.116219" name="Szugló utca / Nagy Lajos király útja"/>
+    <station id="488" lat="47.517360" lon="19.115688" name="Szugló utca / Nagy Lajos király útja"/>
+    <station id="137" lat="47.500660" lon="19.046080" name="Széchenyi István tér"/>
+    <station id="241" lat="47.500901" lon="19.046064" name="Széchenyi István tér"/>
+    <station id="503" lat="47.517498" lon="19.080980" name="Széchenyi fürdő"/>
+    <station id="477" lat="47.495117" lon="18.979500" name="Széchenyi-hegy, Gyermekvasút"/>
+    <station id="83" lat="47.506710" lon="19.025240" name="Széll Kálmán tér"/>
+    <station id="290" lat="47.507232" lon="19.025186" name="Széll Kálmán tér"/>
+    <station id="395" lat="47.506863" lon="19.024178" name="Széll Kálmán tér"/>
+    <station id="421" lat="47.506611" lon="19.024390" name="Széll Kálmán tér"/>
+    <station id="467" lat="47.507358" lon="19.024496" name="Széll Kálmán tér"/>
+    <station id="521" lat="47.506982" lon="19.024828" name="Széll Kálmán tér"/>
+    <station id="84" lat="47.508483" lon="19.027323" name="Széna tér"/>
+    <station id="466" lat="47.508114" lon="19.026739" name="Széna tér"/>
+    <station id="38" lat="47.565232" lon="19.106008" name="Szülőotthon"/>
+    <station id="74" lat="47.480185" lon="19.036537" name="Szüret utca"/>
+    <station id="500" lat="47.547865" lon="19.134059" name="Sárfű utca"/>
+    <station id="180" lat="47.473701" lon="19.171773" name="Sírkert út"/>
+    <station id="186" lat="47.473828" lon="19.171309" name="Sírkert út"/>
+    <station id="173" lat="47.491733" lon="19.144770" name="Sörgyár"/>
+    <station id="193" lat="47.491941" lon="19.144346" name="Sörgyár"/>
+    <station id="429" lat="47.481431" lon="19.004925" name="Süveg utca"/>
+    <station id="448" lat="47.481197" lon="19.004700" name="Süveg utca"/>
+    <station id="73" lat="47.478818" lon="19.040577" name="Tas vezér utca"/>
+    <station id="160" lat="47.493604" lon="19.081884" name="Teleki László tér"/>
+    <station id="204" lat="47.493549" lon="19.082787" name="Teleki László tér"/>
+    <station id="319" lat="47.452574" lon="19.142697" name="Templom tér"/>
+    <station id="257" lat="47.494687" lon="19.140349" name="Terebesi utca"/>
+    <station id="496" lat="47.494129" lon="19.141032" name="Terebesi utca"/>
+    <station id="221" lat="47.445716" lon="19.109034" name="Thököly utca"/>
+    <station id="362" lat="47.442726" lon="19.179510" name="Thököly út"/>
+    <station id="261" lat="47.506942" lon="19.133449" name="Tihamér utca"/>
+    <station id="492" lat="47.507060" lon="19.133051" name="Tihamér utca"/>
+    <station id="225" lat="47.451831" lon="19.092254" name="Timót utca"/>
+    <station id="358" lat="47.449542" lon="19.163509" name="Tinódi utca"/>
+    <station id="33" lat="47.556218" lon="19.088846" name="Tél utca / Pozsonyi utca"/>
+    <station id="479" lat="47.538280" lon="19.117003" name="Tóth István utca"/>
+    <station id="213" lat="47.444012" lon="19.099752" name="Török Flóris utca"/>
+    <station id="368" lat="47.431216" lon="19.212049" name="Ungvár utca"/>
+    <station id="405" lat="47.531796" lon="18.980992" name="Vadaskerti utca"/>
+    <station id="411" lat="47.531885" lon="18.980780" name="Vadaskerti utca"/>
+    <station id="13" lat="47.481770" lon="19.103619" name="Vajda Péter utca"/>
+    <station id="129" lat="47.481389" lon="19.103174" name="Vajda Péter utca"/>
+    <station id="432" lat="47.489321" lon="19.009762" name="Vas Gereben utca"/>
+    <station id="445" lat="47.489078" lon="19.009536" name="Vas Gereben utca"/>
+    <station id="321" lat="47.447793" lon="19.149543" name="Vas Gereben utca / Ady Endre út"/>
+    <station id="179" lat="47.477458" lon="19.165653" name="Venyige utca"/>
+    <station id="187" lat="47.477404" lon="19.165878" name="Venyige utca"/>
+    <station id="139" lat="47.495614" lon="19.048322" name="Vigadó tér"/>
+    <station id="239" lat="47.495569" lon="19.048402" name="Vigadó tér"/>
+    <station id="356" lat="47.452454" lon="19.156673" name="Villanytelep"/>
+    <station id="23" lat="47.523617" lon="19.080987" name="Vágány utca / Róbert Károly körút"/>
+    <station id="119" lat="47.523230" lon="19.081478" name="Vágány utca / Róbert Károly körút"/>
+    <station id="232" lat="47.473151" lon="19.080293" name="Vágóhíd utca"/>
+    <station id="376" lat="47.473403" lon="19.079922" name="Vágóhíd utca"/>
+    <station id="94" lat="47.543830" lon="19.029979" name="Váradi utca"/>
+    <station id="106" lat="47.493536" lon="19.044169" name="Várkert Bazár"/>
+    <station id="343" lat="47.426349" lon="19.039510" name="Városház tér"/>
+    <station id="386" lat="47.427087" lon="19.039165" name="Városház tér"/>
+    <station id="474" lat="47.500096" lon="18.989408" name="Városkút"/>
+    <station id="397" lat="47.509595" lon="19.013212" name="Városmajor"/>
+    <station id="419" lat="47.509550" lon="19.013012" name="Városmajor"/>
+    <station id="468" lat="47.509458" lon="19.012344" name="Városmajor"/>
+    <station id="499" lat="47.545028" lon="19.138863" name="Vásárcsarnok"/>
+    <station id="218" lat="47.438562" lon="19.115283" name="Vécsey utca"/>
+    <station id="406" lat="47.536739" lon="18.975395" name="Völgy utca"/>
+    <station id="410" lat="47.536415" lon="18.975621" name="Völgy utca"/>
+    <station id="512" lat="47.496803" lon="19.050579" name="Vörösmarty tér"/>
+    <station id="379" lat="47.434313" lon="19.106649" name="Vörösmarty utca"/>
+    <station id="507" lat="47.507212" lon="19.066322" name="Vörösmarty utca"/>
+    <station id="297" lat="47.499830" lon="19.069160" name="Wesselényi utca / Erzsébet körút"/>
+    <station id="458" lat="47.500325" lon="19.068948" name="Wesselényi utca / Erzsébet körút"/>
+    <station id="89" lat="47.524251" lon="19.036930" name="Zsigmond tér"/>
+    <station id="142" lat="47.483012" lon="19.062440" name="Zsil utca"/>
+    <station id="236" lat="47.482949" lon="19.062719" name="Zsil utca"/>
+    <station id="19" lat="47.511344" lon="19.099156" name="Zugló vasútállomás"/>
+    <station id="123" lat="47.510921" lon="19.099580" name="Zugló vasútállomás"/>
+    <station id="403" lat="47.526015" lon="18.986046" name="Zuhatag sor"/>
+    <station id="413" lat="47.526159" lon="18.985767" name="Zuhatag sor"/>
+    <station id="433" lat="47.490257" lon="19.012216" name="Zólyomi lépcső"/>
+    <station id="444" lat="47.490383" lon="19.011818" name="Zólyomi lépcső"/>
+    <station id="384" lat="47.421219" lon="19.119105" name="Ábrahám Géza utca"/>
+    <station id="355" lat="47.454554" lon="19.151731" name="Árpád utca"/>
+    <station id="172" lat="47.491495" lon="19.138759" name="Élessarok"/>
+    <station id="194" lat="47.491037" lon="19.138015" name="Élessarok"/>
+    <station id="280" lat="47.491801" lon="19.138666" name="Élessarok"/>
+    <station id="281" lat="47.491828" lon="19.138287" name="Élessarok"/>
+    <station id="30" lat="47.545957" lon="19.033456" name="Óbudai rendelőintézet"/>
+    <station id="112" lat="47.544878" lon="19.034772" name="Óbudai rendelőintézet"/>
+    <station id="55" lat="47.578088" lon="19.116151" name="Óceán-árok utca"/>
+    <station id="171" lat="47.489231" lon="19.136141" name="Ónodi utca"/>
+    <station id="195" lat="47.488602" lon="19.135237" name="Ónodi utca"/>
+    <station id="259" lat="47.502448" lon="19.136843" name="Örs vezér tere"/>
+    <station id="260" lat="47.504098" lon="19.136457" name="Örs vezér tere"/>
+    <station id="493" lat="47.503684" lon="19.136443" name="Örs vezér tere"/>
+    <station id="494" lat="47.502623" lon="19.136654" name="Örs vezér tere"/>
+    <station id="513" lat="47.503187" lon="19.136309" name="Örs vezér tere"/>
+    <station id="480" lat="47.534748" lon="19.112711" name="Öv utca"/>
+    <station id="181" lat="47.473371" lon="19.177835" name="Új köztemető"/>
+    <station id="185" lat="47.473299" lon="19.177383" name="Új köztemető"/>
+    <station id="182" lat="47.475097" lon="19.178223" name="Új köztemető (Kozma utca)"/>
+    <station id="184" lat="47.474630" lon="19.178129" name="Új köztemető (Kozma utca)"/>
+    <station id="70" lat="47.474800" lon="19.046664" name="Újbuda-központ"/>
+    <station id="306" lat="47.474045" lon="19.046863" name="Újbuda-központ"/>
+    <station id="330" lat="47.474467" lon="19.046478" name="Újbuda-központ"/>
+    <station id="544" lat="47.473931" lon="19.046312" name="Újbuda-központ"/>
+    <station id="497" lat="47.539546" lon="19.145362" name="Újpalota, Erdőkerülő utca"/>
+    <station id="540" lat="47.559009" lon="19.079416" name="Újpest-Városkapu"/>
+    <station id="34" lat="47.560157" lon="19.089739" name="Újpest-központ"/>
+    <station id="541" lat="47.560429" lon="19.089926" name="Újpest-központ"/>
+    <station id="37" lat="47.565064" lon="19.099842" name="Újpesti rendelőintézet"/>
+    <station id="277" lat="47.489482" lon="19.125008" name="Őrház"/>
+    <station id="284" lat="47.489473" lon="19.124517" name="Őrház"/>
+    <station id="212" lat="47.446197" lon="19.100297" name="Ősz utca"/>
+    <station id="245" lat="47.446050" lon="19.100220" name="Ősz utca"/>
+  </stations>
+  <lines>
+    <line circular="false" color="#FFD800" id="0" name="1">
+      <stop id="0" station="Kelenföld vasútállomás"/>
+      <stop id="1" station="Bártfai utca"/>
+      <stop id="2" station="Bikás park"/>
+      <stop id="3" station="Etele út / Fehérvári út"/>
+      <stop id="4" station="Hengermalom út / Szerémi út"/>
+      <stop id="5" station="Hauszmann Alajos utca / Szerémi út"/>
+      <stop id="6" station="Budafoki út / Dombóvári út"/>
+      <stop id="7" station="Infopark"/>
+      <stop id="8" station="Közvágóhíd"/>
+      <stop id="9" station="Mester utca / Könyves Kálmán körút"/>
+      <stop id="10" station="Ferencváros vá. - Málenkij Robot Eh."/>
+      <stop id="11" station="Albert Flórián út"/>
+      <stop id="12" station="Népliget"/>
+      <stop id="13" station="Vajda Péter utca"/>
+      <stop id="14" station="Kőbányai út / Könyves Kálmán körút"/>
+      <stop id="15" station="Hidegkuti Nándor Stadion"/>
+      <stop id="16" station="Hős utca"/>
+      <stop id="17" station="Puskás Ferenc Stadion"/>
+      <stop id="18" station="Egressy út / Hungária körút"/>
+      <stop id="19" station="Zugló vasútállomás"/>
+      <stop id="20" station="Ajtósi Dürer sor"/>
+      <stop id="21" station="Erzsébet királyné útja, aluljáró"/>
+      <stop id="22" station="Kacsóh Pongrác út"/>
+      <stop id="23" station="Vágány utca / Róbert Károly körút"/>
+      <stop id="24" station="Lehel utca / Róbert Károly körút"/>
+      <stop id="25" station="Honvédkórház"/>
+      <stop id="26" station="Göncz Árpád városközpont"/>
+      <stop id="27" station="Népfürdő utca / Árpád híd"/>
+      <stop id="28" station="Szentlélek tér"/>
+      <stop id="29" station="Flórián tér"/>
+      <stop id="30" station="Óbudai rendelőintézet"/>
+      <stop id="31" station="Bécsi út / Vörösvári út"/>
+    </line>
+    <line circular="false" color="#FFD800" id="1" name="12">
+      <stop id="32" station="Angyalföld kocsiszín"/>
+      <stop id="33" station="Tél utca / Pozsonyi utca"/>
+      <stop id="34" station="Újpest-központ"/>
+      <stop id="35" station="Szent István tér (Újpesti piac)"/>
+      <stop id="36" station="Kiss Ernő utca"/>
+      <stop id="37" station="Újpesti rendelőintézet"/>
+      <stop id="38" station="Szülőotthon"/>
+      <stop id="39" station="Rákospalota-Újpest vasútállomás"/>
+      <stop id="40" station="Géza fejedelem tér"/>
+      <stop id="41" station="Fő út"/>
+      <stop id="42" station="Rákospalota, Kossuth utca"/>
+    </line>
+    <line circular="false" color="#FFD800" id="2" name="14">
+      <stop id="43" station="Lehel tér"/>
+      <stop id="44" station="Dévai utca"/>
+      <stop id="45" station="Lehel utca / Dózsa György út"/>
+      <stop id="46" station="Hun utca"/>
+      <stop id="47" station="Lehel utca / Róbert Károly körút"/>
+      <stop id="48" station="Béke tér"/>
+      <stop id="49" station="Frangepán utca"/>
+      <stop id="50" station="Fiastyúk utca"/>
+      <stop id="51" station="Rokolya utca"/>
+      <stop id="52" station="Gyöngyösi utca"/>
+      <stop id="53" station="Angyalföld vasútállomás"/>
+      <stop id="32" station="Angyalföld kocsiszín"/>
+      <stop id="33" station="Tél utca / Pozsonyi utca"/>
+      <stop id="34" station="Újpest-központ"/>
+      <stop id="35" station="Szent István tér (Újpesti piac)"/>
+      <stop id="36" station="Kiss Ernő utca"/>
+      <stop id="37" station="Újpesti rendelőintézet"/>
+      <stop id="38" station="Szülőotthon"/>
+      <stop id="39" station="Rákospalota-Újpest vasútállomás"/>
+      <stop id="54" station="Atlétikai stadion"/>
+      <stop id="55" station="Óceán-árok utca"/>
+      <stop id="56" station="Járműtelep utca"/>
+      <stop id="57" station="Bőröndös utca"/>
+      <stop id="58" station="Bőrfestő utca"/>
+      <stop id="59" station="Káposztásmegyer, Megyeri út"/>
+    </line>
+    <line circular="false" color="#FFD800" id="3" name="17">
+      <stop id="60" station="Savoya Park"/>
+      <stop id="61" station="Budafok kocsiszín"/>
+      <stop id="62" station="Fonyód utca"/>
+      <stop id="63" station="Albertfalva utca"/>
+      <stop id="64" station="Albertfalva kitérő"/>
+      <stop id="65" station="Andor utca"/>
+      <stop id="66" station="Kalotaszeg utca"/>
+      <stop id="67" station="Etele út / Fehérvári út"/>
+      <stop id="68" station="Hauszmann Alajos utca"/>
+      <stop id="69" station="Csonka János tér"/>
+      <stop id="70" station="Újbuda-központ"/>
+      <stop id="71" station="Móricz Zsigmond körtér"/>
+      <stop id="72" station="Móricz Zsigmond körtér"/>
+      <stop id="73" station="Tas vezér utca"/>
+      <stop id="74" station="Szüret utca"/>
+      <stop id="75" station="Pető Intézet (Villányi út)"/>
+      <stop id="76" station="Alsóhegy utca"/>
+      <stop id="77" station="Budaörsi út / Villányi út"/>
+      <stop id="78" station="BAH-csomópont"/>
+      <stop id="79" station="Csörsz utca"/>
+      <stop id="80" station="Királyhágó utca"/>
+      <stop id="81" station="Nagyenyed utca"/>
+      <stop id="82" station="Déli pályaudvar"/>
+      <stop id="83" station="Széll Kálmán tér"/>
+      <stop id="84" station="Széna tér"/>
+      <stop id="85" station="Mechwart liget"/>
+      <stop id="86" station="Margit híd, budai hídfő"/>
+      <stop id="87" station="Szent Lukács Gyógyfürdő"/>
+      <stop id="88" station="Komjádi Béla utca"/>
+      <stop id="89" station="Zsigmond tér"/>
+      <stop id="90" station="Kolosy tér"/>
+      <stop id="91" station="Katinyi mártírok parkja"/>
+      <stop id="92" station="Selmeci utca"/>
+      <stop id="93" station="Szent Margit Kórház"/>
+      <stop id="94" station="Váradi utca"/>
+      <stop id="95" station="Bécsi út / Vörösvári út"/>
+      <stop id="96" station="Bécsi út / Vörösvári út"/>
+    </line>
+    <line circular="false" color="#FFD800" id="4" name="19">
+      <stop id="97" station="Kelenföld vasútállomás"/>
+      <stop id="98" station="Szent Gellért-templom"/>
+      <stop id="99" station="Csóka utca (Karinthy Színház)"/>
+      <stop id="100" station="Karolina út"/>
+      <stop id="101" station="Kosztolányi Dezső tér"/>
+      <stop id="102" station="Móricz Zsigmond körtér"/>
+      <stop id="103" station="Gárdonyi tér"/>
+      <stop id="104" station="Szent Gellért tér - Műegyetem"/>
+      <stop id="105" station="Rudas Gyógyfürdő"/>
+      <stop id="106" station="Várkert Bazár"/>
+      <stop id="107" station="Clark Ádám tér"/>
+      <stop id="108" station="Halász utca"/>
+      <stop id="109" station="Batthyány tér"/>
+      <stop id="110" station="Bem József tér"/>
+      <stop id="111" station="Margit híd, budai hídfő"/>
+      <stop id="87" station="Szent Lukács Gyógyfürdő"/>
+      <stop id="88" station="Komjádi Béla utca"/>
+      <stop id="89" station="Zsigmond tér"/>
+      <stop id="90" station="Kolosy tér"/>
+      <stop id="91" station="Katinyi mártírok parkja"/>
+      <stop id="92" station="Selmeci utca"/>
+      <stop id="93" station="Szent Margit Kórház"/>
+      <stop id="94" station="Váradi utca"/>
+      <stop id="95" station="Bécsi út / Vörösvári út"/>
+      <stop id="96" station="Bécsi út / Vörösvári út"/>
+    </line>
+    <line circular="false" color="#FFD800" id="5" name="1A">
+      <stop id="31" station="Bécsi út / Vörösvári út"/>
+      <stop id="112" station="Óbudai rendelőintézet"/>
+      <stop id="113" station="Flórián tér"/>
+      <stop id="114" station="Szentlélek tér"/>
+      <stop id="115" station="Népfürdő utca / Árpád híd"/>
+      <stop id="116" station="Göncz Árpád városközpont"/>
+      <stop id="117" station="Honvédkórház"/>
+      <stop id="118" station="Lehel utca / Róbert Károly körút"/>
+      <stop id="119" station="Vágány utca / Róbert Károly körút"/>
+      <stop id="120" station="Kacsóh Pongrác út"/>
+      <stop id="121" station="Erzsébet királyné útja, aluljáró"/>
+      <stop id="122" station="Ajtósi Dürer sor"/>
+      <stop id="123" station="Zugló vasútállomás"/>
+      <stop id="124" station="Egressy út / Hungária körút"/>
+      <stop id="125" station="Puskás Ferenc Stadion"/>
+      <stop id="126" station="Hős utca"/>
+      <stop id="127" station="Hidegkuti Nándor Stadion"/>
+      <stop id="128" station="Kőbányai út / Könyves Kálmán körút"/>
+      <stop id="129" station="Vajda Péter utca"/>
+      <stop id="130" station="Népliget"/>
+      <stop id="131" station="Albert Flórián út"/>
+      <stop id="132" station="Ferencváros vá. - Málenkij Robot Eh."/>
+      <stop id="133" station="Mester utca / Könyves Kálmán körút"/>
+    </line>
+    <line circular="false" color="#FFD800" id="6" name="2">
+      <stop id="134" station="Jászai Mari tér"/>
+      <stop id="135" station="Országház, látogatóközpont"/>
+      <stop id="136" station="Kossuth Lajos tér"/>
+      <stop id="137" station="Széchenyi István tér"/>
+      <stop id="138" station="Eötvös tér"/>
+      <stop id="139" station="Vigadó tér"/>
+      <stop id="140" station="Március 15. tér"/>
+      <stop id="141" station="Fővám tér"/>
+      <stop id="142" station="Zsil utca"/>
+      <stop id="143" station="Boráros tér"/>
+      <stop id="144" station="Haller utca / Soroksári út"/>
+      <stop id="145" station="Müpa - Nemzeti Színház"/>
+      <stop id="146" station="Közvágóhíd"/>
+    </line>
+    <line circular="false" color="#FFD800" id="7" name="23">
+      <stop id="134" station="Jászai Mari tér"/>
+      <stop id="135" station="Országház, látogatóközpont"/>
+      <stop id="136" station="Kossuth Lajos tér"/>
+      <stop id="137" station="Széchenyi István tér"/>
+      <stop id="138" station="Eötvös tér"/>
+      <stop id="139" station="Vigadó tér"/>
+      <stop id="140" station="Március 15. tér"/>
+      <stop id="141" station="Fővám tér"/>
+      <stop id="142" station="Zsil utca"/>
+      <stop id="143" station="Boráros tér"/>
+      <stop id="147" station="Haller utca / Soroksári út"/>
+      <stop id="148" station="Haller utca / Mester utca"/>
+      <stop id="149" station="Balázs Béla utca"/>
+      <stop id="150" station="Nagyvárad tér"/>
+      <stop id="151" station="Elnök utca"/>
+      <stop id="152" station="Golgota tér"/>
+      <stop id="153" station="Orczy tér"/>
+      <stop id="154" station="Magdolna utca"/>
+      <stop id="155" station="Dologház utca"/>
+      <stop id="156" station="Keleti pályaudvar"/>
+    </line>
+    <line circular="false" color="#FFD800" id="8" name="24">
+      <stop id="146" station="Közvágóhíd"/>
+      <stop id="157" station="Müpa - Nemzeti Színház"/>
+      <stop id="147" station="Haller utca / Soroksári út"/>
+      <stop id="148" station="Haller utca / Mester utca"/>
+      <stop id="149" station="Balázs Béla utca"/>
+      <stop id="150" station="Nagyvárad tér"/>
+      <stop id="151" station="Elnök utca"/>
+      <stop id="152" station="Golgota tér"/>
+      <stop id="153" station="Orczy tér"/>
+      <stop id="154" station="Magdolna utca"/>
+      <stop id="155" station="Dologház utca"/>
+      <stop id="156" station="Keleti pályaudvar"/>
+    </line>
+    <line circular="false" color="#FFD800" id="9" name="28">
+      <stop id="158" station="Blaha Lujza tér M (Népszínház utca)"/>
+      <stop id="159" station="II. János Pál pápa tér"/>
+      <stop id="160" station="Teleki László tér"/>
+      <stop id="161" station="Magdolna utca"/>
+      <stop id="162" station="Orczy tér"/>
+      <stop id="163" station="Kőbányai út 21."/>
+      <stop id="164" station="Kőbányai út 31."/>
+      <stop id="165" station="Kőbányai út / Könyves Kálmán körút"/>
+      <stop id="166" station="Eiffel Műhelyház"/>
+      <stop id="167" station="Egészségház"/>
+      <stop id="168" station="Mázsa utca"/>
+      <stop id="169" station="Kőbánya alsó vasútállomás"/>
+      <stop id="170" station="Szent László tér"/>
+      <stop id="171" station="Ónodi utca"/>
+      <stop id="172" station="Élessarok"/>
+      <stop id="173" station="Sörgyár"/>
+      <stop id="174" station="Jászberényi út / Maglódi út"/>
+      <stop id="175" station="Gitár utca"/>
+      <stop id="176" station="Kocka utca"/>
+      <stop id="177" station="Kada utca / Maglódi út"/>
+      <stop id="178" station="Bajcsy-Zsilinszky Kórház"/>
+      <stop id="179" station="Venyige utca"/>
+      <stop id="180" station="Sírkert út"/>
+      <stop id="181" station="Új köztemető"/>
+      <stop id="182" station="Új köztemető (Kozma utca)"/>
+      <stop id="183" station="Izraelita temető"/>
+    </line>
+    <line circular="false" color="#FFD800" id="10" name="28A">
+      <stop id="184" station="Új köztemető (Kozma utca)"/>
+      <stop id="185" station="Új köztemető"/>
+      <stop id="186" station="Sírkert út"/>
+      <stop id="187" station="Venyige utca"/>
+      <stop id="188" station="Bajcsy-Zsilinszky Kórház"/>
+      <stop id="189" station="Kada utca / Maglódi út"/>
+      <stop id="190" station="Kocka utca"/>
+      <stop id="191" station="Gitár utca"/>
+      <stop id="192" station="Jászberényi út / Maglódi út"/>
+      <stop id="193" station="Sörgyár"/>
+      <stop id="194" station="Élessarok"/>
+      <stop id="195" station="Ónodi utca"/>
+      <stop id="196" station="Szent László tér"/>
+      <stop id="197" station="Kőbánya alsó vasútállomás"/>
+      <stop id="198" station="Mázsa utca"/>
+      <stop id="199" station="Egészségház"/>
+      <stop id="200" station="Eiffel Műhelyház"/>
+      <stop id="201" station="Kőbányai út / Könyves Kálmán körút"/>
+      <stop id="202" station="Kőbányai út 31."/>
+      <stop id="203" station="Kőbányai út 21."/>
+      <stop id="153" station="Orczy tér"/>
+      <stop id="154" station="Magdolna utca"/>
+      <stop id="204" station="Teleki László tér"/>
+      <stop id="205" station="II. János Pál pápa tér"/>
+      <stop id="206" station="Blaha Lujza tér M (Népszínház utca)"/>
+    </line>
+    <line circular="false" color="#FFD800" id="11" name="28B">
+      <stop id="184" station="Új köztemető (Kozma utca)"/>
+      <stop id="185" station="Új köztemető"/>
+      <stop id="186" station="Sírkert út"/>
+      <stop id="187" station="Venyige utca"/>
+      <stop id="188" station="Bajcsy-Zsilinszky Kórház"/>
+      <stop id="189" station="Kada utca / Maglódi út"/>
+      <stop id="190" station="Kocka utca"/>
+      <stop id="191" station="Gitár utca"/>
+      <stop id="192" station="Jászberényi út / Maglódi út"/>
+      <stop id="193" station="Sörgyár"/>
+      <stop id="194" station="Élessarok"/>
+      <stop id="195" station="Ónodi utca"/>
+      <stop id="196" station="Szent László tér"/>
+      <stop id="197" station="Kőbánya alsó vasútállomás"/>
+      <stop id="198" station="Mázsa utca"/>
+      <stop id="199" station="Egészségház"/>
+      <stop id="200" station="Eiffel Műhelyház"/>
+      <stop id="201" station="Kőbányai út / Könyves Kálmán körút"/>
+      <stop id="202" station="Kőbányai út 31."/>
+      <stop id="203" station="Kőbányai út 21."/>
+      <stop id="153" station="Orczy tér"/>
+      <stop id="154" station="Magdolna utca"/>
+      <stop id="155" station="Dologház utca"/>
+      <stop id="156" station="Keleti pályaudvar"/>
+    </line>
+    <line circular="false" color="#FFD800" id="12" name="2B">
+      <stop id="207" station="Határ út"/>
+      <stop id="208" station="Mészáros Lőrinc utca"/>
+      <stop id="209" station="Nagykőrösi út / Határ út"/>
+      <stop id="210" station="Mártírok útja / Határ út"/>
+      <stop id="211" station="Jókai Mór utca / Határ út"/>
+      <stop id="212" station="Ősz utca"/>
+      <stop id="213" station="Török Flóris utca"/>
+      <stop id="214" station="János tér"/>
+      <stop id="215" station="Kossuth Lajos utca"/>
+      <stop id="216" station="Nagysándor József utca"/>
+      <stop id="217" station="Szent Imre herceg utca"/>
+      <stop id="218" station="Vécsey utca"/>
+      <stop id="219" station="Szabótelep"/>
+      <stop id="220" station="Kossuth Lajos utca"/>
+      <stop id="221" station="Thököly utca"/>
+      <stop id="222" station="Jókai Mór utca / Határ út"/>
+      <stop id="212" station="Ősz utca"/>
+      <stop id="223" station="Gubacsi út / Határ út"/>
+      <stop id="224" station="Fegyvergyár utca"/>
+      <stop id="225" station="Timót utca"/>
+      <stop id="226" station="Illatos út"/>
+      <stop id="227" station="Kén utca"/>
+      <stop id="228" station="Magyar Aszfalt"/>
+      <stop id="229" station="Hentes utca"/>
+      <stop id="230" station="Koppány utca"/>
+      <stop id="231" station="Mester utca / Könyves Kálmán körút"/>
+      <stop id="232" station="Vágóhíd utca"/>
+      <stop id="233" station="Haller utca / Mester utca"/>
+      <stop id="234" station="Haller utca / Soroksári út"/>
+      <stop id="235" station="Boráros tér"/>
+      <stop id="236" station="Zsil utca"/>
+      <stop id="237" station="Fővám tér"/>
+      <stop id="238" station="Március 15. tér"/>
+      <stop id="239" station="Vigadó tér"/>
+      <stop id="240" station="Eötvös tér"/>
+      <stop id="241" station="Széchenyi István tér"/>
+      <stop id="242" station="Kossuth Lajos tér"/>
+      <stop id="243" station="Országház, látogatóközpont"/>
+      <stop id="134" station="Jászai Mari tér"/>
+    </line>
+    <line circular="false" color="#FFD800" id="13" name="3">
+      <stop id="244" station="Gubacsi út / Határ út"/>
+      <stop id="245" station="Ősz utca"/>
+      <stop id="246" station="Jókai Mór utca / Határ út"/>
+      <stop id="247" station="Mártírok útja / Határ út"/>
+      <stop id="248" station="Nagykőrösi út / Határ út"/>
+      <stop id="249" station="Epreserdő utca"/>
+      <stop id="250" station="Csengettyű utca"/>
+      <stop id="251" station="Közterületfenntartó Zrt."/>
+      <stop id="252" station="Ecseri út"/>
+      <stop id="253" station="Balkán utca"/>
+      <stop id="254" station="Fertő utca / Bihari utca"/>
+      <stop id="255" station="Kocsis Sándor Sportközpont"/>
+      <stop id="256" station="Kőbánya alsó vasútállomás (Mázsa tér)"/>
+      <stop id="169" station="Kőbánya alsó vasútállomás"/>
+      <stop id="170" station="Szent László tér"/>
+      <stop id="171" station="Ónodi utca"/>
+      <stop id="172" station="Élessarok"/>
+      <stop id="257" station="Terebesi utca"/>
+      <stop id="258" station="Fehér úti ipari park"/>
+      <stop id="259" station="Örs vezér tere"/>
+      <stop id="260" station="Örs vezér tere"/>
+      <stop id="261" station="Tihamér utca"/>
+      <stop id="262" station="Pongrátz Gergely tér"/>
+      <stop id="263" station="Jeszenák János utca"/>
+      <stop id="264" station="Egressy tér"/>
+      <stop id="265" station="Szugló utca / Nagy Lajos király útja"/>
+      <stop id="266" station="Bosnyák tér"/>
+      <stop id="267" station="Kerékgyártó utca"/>
+      <stop id="268" station="Nagy Lajos király útja / Czobor utca"/>
+      <stop id="269" station="Laky Adolf utca"/>
+      <stop id="270" station="Erzsébet királyné útja, aluljáró"/>
+      <stop id="271" station="Mexikói út"/>
+    </line>
+    <line circular="false" color="#FFD800" id="14" name="37">
+      <stop id="158" station="Blaha Lujza tér M (Népszínház utca)"/>
+      <stop id="159" station="II. János Pál pápa tér"/>
+      <stop id="160" station="Teleki László tér"/>
+      <stop id="161" station="Magdolna utca"/>
+      <stop id="272" station="Salgótarjáni utca, temető"/>
+      <stop id="273" station="Asztalos Sándor út"/>
+      <stop id="274" station="Hidegkuti Nándor Stadion"/>
+      <stop id="275" station="Kőbányai garázs"/>
+      <stop id="276" station="Pongrácz úti lakótelep"/>
+      <stop id="277" station="Őrház"/>
+      <stop id="278" station="Halom utca"/>
+      <stop id="279" station="Kőbánya felső vasútállomás"/>
+      <stop id="280" station="Élessarok"/>
+      <stop id="173" station="Sörgyár"/>
+      <stop id="174" station="Jászberényi út / Maglódi út"/>
+      <stop id="175" station="Gitár utca"/>
+      <stop id="176" station="Kocka utca"/>
+      <stop id="177" station="Kada utca / Maglódi út"/>
+      <stop id="178" station="Bajcsy-Zsilinszky Kórház"/>
+      <stop id="179" station="Venyige utca"/>
+      <stop id="180" station="Sírkert út"/>
+      <stop id="181" station="Új köztemető"/>
+      <stop id="182" station="Új köztemető (Kozma utca)"/>
+    </line>
+    <line circular="false" color="#FFD800" id="15" name="37A">
+      <stop id="193" station="Sörgyár"/>
+      <stop id="281" station="Élessarok"/>
+      <stop id="282" station="Kőbánya felső vasútállomás"/>
+      <stop id="283" station="Halom utca"/>
+      <stop id="284" station="Őrház"/>
+      <stop id="285" station="Pongrácz úti lakótelep"/>
+      <stop id="286" station="Kőbányai garázs"/>
+      <stop id="287" station="Hidegkuti Nándor Stadion"/>
+      <stop id="288" station="Asztalos Sándor út"/>
+      <stop id="289" station="Salgótarjáni utca, temető"/>
+      <stop id="154" station="Magdolna utca"/>
+      <stop id="204" station="Teleki László tér"/>
+      <stop id="205" station="II. János Pál pápa tér"/>
+      <stop id="206" station="Blaha Lujza tér M (Népszínház utca)"/>
+    </line>
+    <line circular="false" color="#FFD800" id="16" name="4">
+      <stop id="290" station="Széll Kálmán tér"/>
+      <stop id="84" station="Széna tér"/>
+      <stop id="85" station="Mechwart liget"/>
+      <stop id="291" station="Margit híd, budai hídfő"/>
+      <stop id="292" station="Margitsziget / Margit híd"/>
+      <stop id="293" station="Jászai Mari tér"/>
+      <stop id="294" station="Nyugati pályaudvar"/>
+      <stop id="295" station="Oktogon"/>
+      <stop id="296" station="Király utca / Erzsébet körút"/>
+      <stop id="297" station="Wesselényi utca / Erzsébet körút"/>
+      <stop id="298" station="Blaha Lujza tér"/>
+      <stop id="299" station="Rákóczi tér"/>
+      <stop id="300" station="Harminckettesek tere"/>
+      <stop id="301" station="Corvin-negyed"/>
+      <stop id="302" station="Mester utca / Ferenc körút"/>
+      <stop id="303" station="Boráros tér"/>
+      <stop id="304" station="Petőfi híd, budai hídfő"/>
+      <stop id="305" station="Budafoki út / Szerémi sor"/>
+      <stop id="306" station="Újbuda-központ"/>
+    </line>
+    <line circular="false" color="#FFD800" id="17" name="41">
+      <stop id="307" station="Kamaraerdei Ifjúsági Park"/>
+      <stop id="308" station="Repülőtér"/>
+      <stop id="309" station="Fülőke utca"/>
+      <stop id="310" station="Kőérberek"/>
+      <stop id="311" station="Balatoni út"/>
+      <stop id="312" station="Kelenvölgy-Péterhegy"/>
+      <stop id="313" station="Pék utca"/>
+      <stop id="314" station="Rózsavölgy felső"/>
+      <stop id="315" station="Rózsavölgy alsó"/>
+      <stop id="316" station="Budafoki elágazás"/>
+      <stop id="61" station="Budafok kocsiszín"/>
+      <stop id="62" station="Fonyód utca"/>
+      <stop id="63" station="Albertfalva utca"/>
+      <stop id="64" station="Albertfalva kitérő"/>
+      <stop id="65" station="Andor utca"/>
+      <stop id="66" station="Kalotaszeg utca"/>
+      <stop id="67" station="Etele út / Fehérvári út"/>
+      <stop id="68" station="Hauszmann Alajos utca"/>
+      <stop id="69" station="Csonka János tér"/>
+      <stop id="70" station="Újbuda-központ"/>
+      <stop id="71" station="Móricz Zsigmond körtér"/>
+      <stop id="103" station="Gárdonyi tér"/>
+      <stop id="104" station="Szent Gellért tér - Műegyetem"/>
+      <stop id="105" station="Rudas Gyógyfürdő"/>
+      <stop id="106" station="Várkert Bazár"/>
+      <stop id="107" station="Clark Ádám tér"/>
+      <stop id="108" station="Halász utca"/>
+      <stop id="109" station="Batthyány tér"/>
+      <stop id="110" station="Bem József tér"/>
+      <stop id="111" station="Margit híd, budai hídfő"/>
+      <stop id="87" station="Szent Lukács Gyógyfürdő"/>
+      <stop id="88" station="Komjádi Béla utca"/>
+      <stop id="89" station="Zsigmond tér"/>
+      <stop id="90" station="Kolosy tér"/>
+      <stop id="91" station="Katinyi mártírok parkja"/>
+      <stop id="92" station="Selmeci utca"/>
+      <stop id="93" station="Szent Margit Kórház"/>
+      <stop id="94" station="Váradi utca"/>
+      <stop id="95" station="Bécsi út / Vörösvári út"/>
+      <stop id="96" station="Bécsi út / Vörösvári út"/>
+    </line>
+    <line circular="false" color="#FFD800" id="18" name="42">
+      <stop id="207" station="Határ út"/>
+      <stop id="317" station="Corvin körút"/>
+      <stop id="318" station="Hungária út (Rendőrség)"/>
+      <stop id="319" station="Templom tér"/>
+      <stop id="320" station="Kossuth Lajos utca / Ady Endre út"/>
+      <stop id="321" station="Vas Gereben utca / Ady Endre út"/>
+      <stop id="322" station="Kispest, Tulipán utca"/>
+    </line>
+    <line circular="false" color="#FFD800" id="19" name="47">
+      <stop id="323" station="Deák Ferenc tér"/>
+      <stop id="324" station="Astoria"/>
+      <stop id="325" station="Kálvin tér"/>
+      <stop id="326" station="Fővám tér"/>
+      <stop id="327" station="Szent Gellért tér - Műegyetem"/>
+      <stop id="328" station="Gárdonyi tér"/>
+      <stop id="329" station="Móricz Zsigmond körtér"/>
+      <stop id="330" station="Újbuda-központ"/>
+      <stop id="331" station="Csonka János tér"/>
+      <stop id="332" station="Hauszmann Alajos utca"/>
+      <stop id="333" station="Etele út / Fehérvári út"/>
+      <stop id="334" station="Kalotaszeg utca"/>
+      <stop id="335" station="Andor utca"/>
+      <stop id="336" station="Albertfalva kitérő"/>
+      <stop id="337" station="Albertfalva utca"/>
+      <stop id="338" station="Fonyód utca"/>
+      <stop id="339" station="Budafok kocsiszín"/>
+      <stop id="340" station="Budafoki elágazás"/>
+      <stop id="341" station="Leányka utcai lakótelep"/>
+      <stop id="342" station="Savoyai Jenő tér"/>
+      <stop id="343" station="Városház tér"/>
+    </line>
+    <line circular="false" color="#FFD800" id="20" name="48">
+      <stop id="323" station="Deák Ferenc tér"/>
+      <stop id="324" station="Astoria"/>
+      <stop id="325" station="Kálvin tér"/>
+      <stop id="326" station="Fővám tér"/>
+      <stop id="327" station="Szent Gellért tér - Műegyetem"/>
+      <stop id="328" station="Gárdonyi tér"/>
+      <stop id="329" station="Móricz Zsigmond körtér"/>
+      <stop id="330" station="Újbuda-központ"/>
+      <stop id="331" station="Csonka János tér"/>
+      <stop id="332" station="Hauszmann Alajos utca"/>
+      <stop id="333" station="Etele út / Fehérvári út"/>
+      <stop id="334" station="Kalotaszeg utca"/>
+      <stop id="335" station="Andor utca"/>
+      <stop id="336" station="Albertfalva kitérő"/>
+      <stop id="337" station="Albertfalva utca"/>
+      <stop id="338" station="Fonyód utca"/>
+      <stop id="339" station="Budafok kocsiszín"/>
+      <stop id="344" station="Savoya Park"/>
+    </line>
+    <line circular="false" color="#FFD800" id="21" name="49">
+      <stop id="323" station="Deák Ferenc tér"/>
+      <stop id="324" station="Astoria"/>
+      <stop id="325" station="Kálvin tér"/>
+      <stop id="326" station="Fővám tér"/>
+      <stop id="327" station="Szent Gellért tér - Műegyetem"/>
+      <stop id="328" station="Gárdonyi tér"/>
+      <stop id="345" station="Móricz Zsigmond körtér"/>
+      <stop id="346" station="Kosztolányi Dezső tér"/>
+      <stop id="347" station="Karolina út"/>
+      <stop id="348" station="Csóka utca (Karinthy Színház)"/>
+      <stop id="349" station="Szent Gellért-templom"/>
+      <stop id="97" station="Kelenföld vasútállomás"/>
+    </line>
+    <line circular="false" color="#FFD800" id="22" name="50">
+      <stop id="350" station="Határ út"/>
+      <stop id="351" station="Corvin körút"/>
+      <stop id="352" station="Lehel utca"/>
+      <stop id="353" station="Kossuth tér"/>
+      <stop id="354" station="Fő utca"/>
+      <stop id="355" station="Árpád utca"/>
+      <stop id="356" station="Villanytelep"/>
+      <stop id="357" station="Lajosmizsei sorompó"/>
+      <stop id="358" station="Tinódi utca"/>
+      <stop id="359" station="Margó Tivadar utca"/>
+      <stop id="360" station="Kemény Zsigmond utca"/>
+      <stop id="361" station="Baross utca"/>
+      <stop id="362" station="Thököly út"/>
+      <stop id="363" station="Szarvas csárda tér"/>
+      <stop id="364" station="Madarász utca"/>
+      <stop id="365" station="Iparvasút"/>
+      <stop id="366" station="Honvéd utca"/>
+      <stop id="367" station="Bajcsy-Zsilinszky út"/>
+      <stop id="368" station="Ungvár utca"/>
+      <stop id="369" station="Pestszentlőrinc, Béke tér"/>
+    </line>
+    <line circular="false" color="#FFD800" id="23" name="51">
+      <stop id="213" station="Török Flóris utca"/>
+      <stop id="214" station="János tér"/>
+      <stop id="215" station="Kossuth Lajos utca"/>
+      <stop id="216" station="Nagysándor József utca"/>
+      <stop id="217" station="Szent Imre herceg utca"/>
+      <stop id="218" station="Vécsey utca"/>
+      <stop id="219" station="Szabótelep"/>
+      <stop id="220" station="Kossuth Lajos utca"/>
+      <stop id="221" station="Thököly utca"/>
+      <stop id="222" station="Jókai Mór utca / Határ út"/>
+      <stop id="212" station="Ősz utca"/>
+      <stop id="223" station="Gubacsi út / Határ út"/>
+      <stop id="224" station="Fegyvergyár utca"/>
+      <stop id="225" station="Timót utca"/>
+      <stop id="226" station="Illatos út"/>
+      <stop id="227" station="Kén utca"/>
+      <stop id="228" station="Magyar Aszfalt"/>
+      <stop id="229" station="Hentes utca"/>
+      <stop id="230" station="Koppány utca"/>
+      <stop id="231" station="Mester utca / Könyves Kálmán körút"/>
+      <stop id="232" station="Vágóhíd utca"/>
+      <stop id="370" station="Haller utca / Mester utca"/>
+      <stop id="371" station="Bokréta utca"/>
+      <stop id="372" station="Mester utca / Ferenc körút"/>
+    </line>
+    <line circular="false" color="#FFD800" id="24" name="51A">
+      <stop id="372" station="Mester utca / Ferenc körút"/>
+      <stop id="373" station="Bokréta utca"/>
+      <stop id="374" station="Ferencvárosi rendelőintézet"/>
+      <stop id="375" station="Haller utca / Mester utca"/>
+      <stop id="376" station="Vágóhíd utca"/>
+      <stop id="377" station="Mester utca / Könyves Kálmán körút"/>
+      <stop id="378" station="Koppány utca"/>
+    </line>
+    <line circular="false" color="#FFD800" id="25" name="52">
+      <stop id="207" station="Határ út"/>
+      <stop id="208" station="Mészáros Lőrinc utca"/>
+      <stop id="209" station="Nagykőrösi út / Határ út"/>
+      <stop id="210" station="Mártírok útja / Határ út"/>
+      <stop id="211" station="Jókai Mór utca / Határ út"/>
+      <stop id="212" station="Ősz utca"/>
+      <stop id="213" station="Török Flóris utca"/>
+      <stop id="214" station="János tér"/>
+      <stop id="215" station="Kossuth Lajos utca"/>
+      <stop id="216" station="Nagysándor József utca"/>
+      <stop id="379" station="Vörösmarty utca"/>
+      <stop id="380" station="Pöltenberg utca"/>
+      <stop id="381" station="Klapka utca"/>
+      <stop id="382" station="Akácfa utca"/>
+      <stop id="383" station="Károly utca"/>
+      <stop id="384" station="Ábrahám Géza utca"/>
+      <stop id="385" station="Pesterzsébet, Pacsirtatelep"/>
+    </line>
+    <line circular="false" color="#FFD800" id="26" name="56">
+      <stop id="386" station="Városház tér"/>
+      <stop id="387" station="Savoyai Jenő tér"/>
+      <stop id="388" station="Leányka utcai lakótelep"/>
+      <stop id="389" station="Budafoki elágazás"/>
+      <stop id="61" station="Budafok kocsiszín"/>
+      <stop id="62" station="Fonyód utca"/>
+      <stop id="63" station="Albertfalva utca"/>
+      <stop id="64" station="Albertfalva kitérő"/>
+      <stop id="65" station="Andor utca"/>
+      <stop id="66" station="Kalotaszeg utca"/>
+      <stop id="67" station="Etele út / Fehérvári út"/>
+      <stop id="68" station="Hauszmann Alajos utca"/>
+      <stop id="69" station="Csonka János tér"/>
+      <stop id="70" station="Újbuda-központ"/>
+      <stop id="71" station="Móricz Zsigmond körtér"/>
+      <stop id="103" station="Gárdonyi tér"/>
+      <stop id="104" station="Szent Gellért tér - Műegyetem"/>
+      <stop id="105" station="Rudas Gyógyfürdő"/>
+      <stop id="390" station="Döbrentei tér"/>
+      <stop id="391" station="Dózsa György tér"/>
+      <stop id="392" station="Krisztina tér"/>
+      <stop id="393" station="Mikó utca"/>
+      <stop id="394" station="Déli pályaudvar"/>
+      <stop id="395" station="Széll Kálmán tér"/>
+      <stop id="396" station="Nyúl utca"/>
+      <stop id="397" station="Városmajor"/>
+      <stop id="398" station="Szent János Kórház"/>
+      <stop id="399" station="Nagyajtai utca"/>
+      <stop id="400" station="Budagyöngye"/>
+      <stop id="401" station="Akadémia"/>
+      <stop id="402" station="Kelemen László utca"/>
+      <stop id="403" station="Zuhatag sor"/>
+      <stop id="404" station="Nagyhíd"/>
+      <stop id="405" station="Vadaskerti utca"/>
+      <stop id="406" station="Völgy utca"/>
+      <stop id="407" station="Heinrich István utca"/>
+      <stop id="408" station="Hűvösvölgy"/>
+    </line>
+    <line circular="false" color="#FFD800" id="27" name="56A">
+      <stop id="408" station="Hűvösvölgy"/>
+      <stop id="409" station="Heinrich István utca"/>
+      <stop id="410" station="Völgy utca"/>
+      <stop id="411" station="Vadaskerti utca"/>
+      <stop id="412" station="Nagyhíd"/>
+      <stop id="413" station="Zuhatag sor"/>
+      <stop id="414" station="Kelemen László utca"/>
+      <stop id="415" station="Akadémia"/>
+      <stop id="416" station="Budagyöngye"/>
+      <stop id="417" station="Nagyajtai utca"/>
+      <stop id="418" station="Szent János Kórház"/>
+      <stop id="419" station="Városmajor"/>
+      <stop id="420" station="Nyúl utca"/>
+      <stop id="421" station="Széll Kálmán tér"/>
+      <stop id="422" station="Déli pályaudvar"/>
+      <stop id="423" station="Mikó utca"/>
+      <stop id="424" station="Krisztina tér"/>
+      <stop id="425" station="Dózsa György tér"/>
+      <stop id="426" station="Döbrentei tér"/>
+      <stop id="427" station="Rudas Gyógyfürdő"/>
+      <stop id="327" station="Szent Gellért tér - Műegyetem"/>
+      <stop id="328" station="Gárdonyi tér"/>
+      <stop id="329" station="Móricz Zsigmond körtér"/>
+    </line>
+    <line circular="false" color="#FFD800" id="28" name="59">
+      <stop id="428" station="Márton Áron tér"/>
+      <stop id="429" station="Süveg utca"/>
+      <stop id="430" station="Farkasréti temető"/>
+      <stop id="431" station="Liptó utca"/>
+      <stop id="432" station="Vas Gereben utca"/>
+      <stop id="433" station="Zólyomi lépcső"/>
+      <stop id="434" station="Apor Vilmos tér"/>
+      <stop id="435" station="Kiss János altábornagy utca"/>
+      <stop id="436" station="Királyhágó tér"/>
+      <stop id="437" station="Kék Golyó utca"/>
+      <stop id="82" station="Déli pályaudvar"/>
+      <stop id="395" station="Széll Kálmán tér"/>
+      <stop id="396" station="Nyúl utca"/>
+      <stop id="397" station="Városmajor"/>
+      <stop id="398" station="Szent János Kórház"/>
+      <stop id="399" station="Nagyajtai utca"/>
+      <stop id="438" station="Budagyöngye"/>
+    </line>
+    <line circular="false" color="#FFD800" id="29" name="59A">
+      <stop id="421" station="Széll Kálmán tér"/>
+      <stop id="439" station="Déli pályaudvar"/>
+      <stop id="440" station="Kék Golyó utca"/>
+      <stop id="441" station="Királyhágó tér"/>
+      <stop id="442" station="Kiss János altábornagy utca"/>
+      <stop id="443" station="Apor Vilmos tér"/>
+      <stop id="444" station="Zólyomi lépcső"/>
+      <stop id="445" station="Vas Gereben utca"/>
+      <stop id="446" station="Liptó utca"/>
+      <stop id="447" station="Farkasréti temető"/>
+      <stop id="448" station="Süveg utca"/>
+      <stop id="428" station="Márton Áron tér"/>
+    </line>
+    <line circular="false" color="#FFD800" id="30" name="59B">
+      <stop id="408" station="Hűvösvölgy"/>
+      <stop id="409" station="Heinrich István utca"/>
+      <stop id="410" station="Völgy utca"/>
+      <stop id="411" station="Vadaskerti utca"/>
+      <stop id="412" station="Nagyhíd"/>
+      <stop id="413" station="Zuhatag sor"/>
+      <stop id="414" station="Kelemen László utca"/>
+      <stop id="415" station="Akadémia"/>
+      <stop id="416" station="Budagyöngye"/>
+      <stop id="417" station="Nagyajtai utca"/>
+      <stop id="418" station="Szent János Kórház"/>
+      <stop id="419" station="Városmajor"/>
+      <stop id="420" station="Nyúl utca"/>
+      <stop id="421" station="Széll Kálmán tér"/>
+      <stop id="439" station="Déli pályaudvar"/>
+      <stop id="440" station="Kék Golyó utca"/>
+      <stop id="441" station="Királyhágó tér"/>
+      <stop id="442" station="Kiss János altábornagy utca"/>
+      <stop id="443" station="Apor Vilmos tér"/>
+      <stop id="444" station="Zólyomi lépcső"/>
+      <stop id="445" station="Vas Gereben utca"/>
+      <stop id="446" station="Liptó utca"/>
+      <stop id="447" station="Farkasréti temető"/>
+      <stop id="448" station="Süveg utca"/>
+      <stop id="428" station="Márton Áron tér"/>
+    </line>
+    <line circular="false" color="#FFD800" id="31" name="6">
+      <stop id="449" station="Móricz Zsigmond körtér"/>
+      <stop id="450" station="Budafoki út / Karinthy Frigyes út"/>
+      <stop id="451" station="Petőfi híd, budai hídfő"/>
+      <stop id="452" station="Boráros tér"/>
+      <stop id="453" station="Mester utca / Ferenc körút"/>
+      <stop id="454" station="Corvin-negyed"/>
+      <stop id="455" station="Harminckettesek tere"/>
+      <stop id="456" station="Rákóczi tér"/>
+      <stop id="457" station="Blaha Lujza tér"/>
+      <stop id="458" station="Wesselényi utca / Erzsébet körút"/>
+      <stop id="459" station="Király utca / Erzsébet körút"/>
+      <stop id="460" station="Oktogon"/>
+      <stop id="461" station="Nyugati pályaudvar"/>
+      <stop id="462" station="Jászai Mari tér"/>
+      <stop id="463" station="Margitsziget / Margit híd"/>
+      <stop id="464" station="Margit híd, budai hídfő"/>
+      <stop id="465" station="Mechwart liget"/>
+      <stop id="466" station="Széna tér"/>
+      <stop id="467" station="Széll Kálmán tér"/>
+    </line>
+    <line circular="false" color="#FFD800" id="32" name="60">
+      <stop id="468" station="Városmajor"/>
+      <stop id="469" station="Szent János Kórház"/>
+      <stop id="470" station="Orgonás"/>
+      <stop id="471" station="Esze Tamás iskola"/>
+      <stop id="472" station="Erdei iskola"/>
+      <stop id="473" station="Adonis utca"/>
+      <stop id="474" station="Városkút"/>
+      <stop id="475" station="Svábhegy"/>
+      <stop id="476" station="Művész út"/>
+      <stop id="477" station="Széchenyi-hegy, Gyermekvasút"/>
+    </line>
+    <line circular="false" color="#FFD800" id="33" name="61">
+      <stop id="71" station="Móricz Zsigmond körtér"/>
+      <stop id="72" station="Móricz Zsigmond körtér"/>
+      <stop id="73" station="Tas vezér utca"/>
+      <stop id="74" station="Szüret utca"/>
+      <stop id="75" station="Pető Intézet (Villányi út)"/>
+      <stop id="76" station="Alsóhegy utca"/>
+      <stop id="77" station="Budaörsi út / Villányi út"/>
+      <stop id="78" station="BAH-csomópont"/>
+      <stop id="79" station="Csörsz utca"/>
+      <stop id="80" station="Királyhágó utca"/>
+      <stop id="81" station="Nagyenyed utca"/>
+      <stop id="82" station="Déli pályaudvar"/>
+      <stop id="395" station="Széll Kálmán tér"/>
+      <stop id="396" station="Nyúl utca"/>
+      <stop id="397" station="Városmajor"/>
+      <stop id="398" station="Szent János Kórház"/>
+      <stop id="399" station="Nagyajtai utca"/>
+      <stop id="400" station="Budagyöngye"/>
+      <stop id="401" station="Akadémia"/>
+      <stop id="402" station="Kelemen László utca"/>
+      <stop id="403" station="Zuhatag sor"/>
+      <stop id="404" station="Nagyhíd"/>
+      <stop id="405" station="Vadaskerti utca"/>
+      <stop id="406" station="Völgy utca"/>
+      <stop id="407" station="Heinrich István utca"/>
+      <stop id="408" station="Hűvösvölgy"/>
+    </line>
+    <line circular="false" color="#FFD800" id="34" name="62">
+      <stop id="478" station="Rákospalota, MÁV-telep"/>
+      <stop id="479" station="Tóth István utca"/>
+      <stop id="480" station="Öv utca"/>
+      <stop id="481" station="Miskolci utca"/>
+      <stop id="482" station="Rákospatak utca"/>
+      <stop id="483" station="Fűrész utca"/>
+      <stop id="484" station="Nagy Lajos király útja / Czobor utca"/>
+      <stop id="485" station="Nagy Lajos király útja / Czobor utca"/>
+      <stop id="486" station="Kerékgyártó utca"/>
+      <stop id="487" station="Bosnyák tér"/>
+      <stop id="488" station="Szugló utca / Nagy Lajos király útja"/>
+      <stop id="489" station="Egressy tér"/>
+      <stop id="490" station="Jeszenák János utca"/>
+      <stop id="491" station="Pongrátz Gergely tér"/>
+      <stop id="492" station="Tihamér utca"/>
+      <stop id="493" station="Örs vezér tere"/>
+      <stop id="494" station="Örs vezér tere"/>
+      <stop id="495" station="Fehér úti ipari park"/>
+      <stop id="496" station="Terebesi utca"/>
+      <stop id="194" station="Élessarok"/>
+      <stop id="195" station="Ónodi utca"/>
+      <stop id="196" station="Szent László tér"/>
+      <stop id="197" station="Kőbánya alsó vasútállomás"/>
+      <stop id="198" station="Mázsa utca"/>
+      <stop id="199" station="Egészségház"/>
+      <stop id="200" station="Eiffel Műhelyház"/>
+      <stop id="201" station="Kőbányai út / Könyves Kálmán körút"/>
+      <stop id="202" station="Kőbányai út 31."/>
+      <stop id="203" station="Kőbányai út 21."/>
+      <stop id="153" station="Orczy tér"/>
+      <stop id="154" station="Magdolna utca"/>
+      <stop id="204" station="Teleki László tér"/>
+      <stop id="205" station="II. János Pál pápa tér"/>
+      <stop id="206" station="Blaha Lujza tér M (Népszínház utca)"/>
+    </line>
+    <line circular="false" color="#FFD800" id="35" name="62A">
+      <stop id="478" station="Rákospalota, MÁV-telep"/>
+      <stop id="479" station="Tóth István utca"/>
+      <stop id="480" station="Öv utca"/>
+      <stop id="481" station="Miskolci utca"/>
+      <stop id="482" station="Rákospatak utca"/>
+      <stop id="483" station="Fűrész utca"/>
+      <stop id="484" station="Nagy Lajos király útja / Czobor utca"/>
+      <stop id="485" station="Nagy Lajos király útja / Czobor utca"/>
+      <stop id="486" station="Kerékgyártó utca"/>
+      <stop id="487" station="Bosnyák tér"/>
+      <stop id="488" station="Szugló utca / Nagy Lajos király útja"/>
+      <stop id="489" station="Egressy tér"/>
+      <stop id="490" station="Jeszenák János utca"/>
+      <stop id="491" station="Pongrátz Gergely tér"/>
+      <stop id="492" station="Tihamér utca"/>
+      <stop id="493" station="Örs vezér tere"/>
+      <stop id="494" station="Örs vezér tere"/>
+      <stop id="495" station="Fehér úti ipari park"/>
+      <stop id="496" station="Terebesi utca"/>
+      <stop id="194" station="Élessarok"/>
+      <stop id="195" station="Ónodi utca"/>
+      <stop id="196" station="Szent László tér"/>
+      <stop id="197" station="Kőbánya alsó vasútállomás"/>
+    </line>
+    <line circular="false" color="#FFD800" id="36" name="69">
+      <stop id="497" station="Újpalota, Erdőkerülő utca"/>
+      <stop id="498" station="Fő tér"/>
+      <stop id="499" station="Vásárcsarnok"/>
+      <stop id="500" station="Sárfű utca"/>
+      <stop id="501" station="Szerencs utca / Bánkút utca"/>
+      <stop id="478" station="Rákospalota, MÁV-telep"/>
+      <stop id="479" station="Tóth István utca"/>
+      <stop id="480" station="Öv utca"/>
+      <stop id="481" station="Miskolci utca"/>
+      <stop id="482" station="Rákospatak utca"/>
+      <stop id="483" station="Fűrész utca"/>
+      <stop id="484" station="Nagy Lajos király útja / Czobor utca"/>
+      <stop id="269" station="Laky Adolf utca"/>
+      <stop id="270" station="Erzsébet királyné útja, aluljáró"/>
+      <stop id="271" station="Mexikói út"/>
+    </line>
+    <line circular="false" color="#FFD800" id="37" name="M1">
+      <stop id="502" station="Mexikói út"/>
+      <stop id="503" station="Széchenyi fürdő"/>
+      <stop id="504" station="Hősök tere"/>
+      <stop id="505" station="Bajza utca"/>
+      <stop id="506" station="Kodály körönd"/>
+      <stop id="507" station="Vörösmarty utca"/>
+      <stop id="508" station="Oktogon"/>
+      <stop id="509" station="Opera"/>
+      <stop id="510" station="Bajcsy-Zsilinszky út"/>
+      <stop id="511" station="Deák Ferenc tér"/>
+      <stop id="512" station="Vörösmarty tér"/>
+    </line>
+    <line circular="false" color="#E41F18" id="38" name="M2">
+      <stop id="513" station="Örs vezér tere"/>
+      <stop id="514" station="Pillangó utca"/>
+      <stop id="515" station="Puskás Ferenc Stadion"/>
+      <stop id="516" station="Keleti pályaudvar"/>
+      <stop id="517" station="Blaha Lujza tér"/>
+      <stop id="518" station="Astoria"/>
+      <stop id="511" station="Deák Ferenc tér"/>
+      <stop id="519" station="Kossuth Lajos tér"/>
+      <stop id="520" station="Batthyány tér"/>
+      <stop id="521" station="Széll Kálmán tér"/>
+      <stop id="522" station="Déli pályaudvar"/>
+    </line>
+    <line circular="false" color="#005CA5" id="39" name="M3">
+      <stop id="523" station="Kőbánya-Kispest [D]"/>
+      <stop id="524" station="Határ út"/>
+      <stop id="525" station="Pöttyös utca"/>
+      <stop id="526" station="Ecseri út"/>
+      <stop id="527" station="Népliget"/>
+      <stop id="528" station="Nagyvárad tér"/>
+      <stop id="529" station="Semmelweis Klinikák"/>
+      <stop id="530" station="Corvin-negyed"/>
+      <stop id="531" station="Kálvin tér"/>
+      <stop id="532" station="Ferenciek tere"/>
+      <stop id="511" station="Deák Ferenc tér"/>
+      <stop id="533" station="Arany János utca"/>
+      <stop id="534" station="Nyugati pályaudvar"/>
+      <stop id="535" station="Lehel tér"/>
+      <stop id="536" station="Dózsa György út"/>
+      <stop id="537" station="Göncz Árpád városközpont"/>
+      <stop id="538" station="Forgách utca"/>
+      <stop id="539" station="Gyöngyösi utca"/>
+      <stop id="540" station="Újpest-Városkapu"/>
+      <stop id="541" station="Újpest-központ"/>
+    </line>
+    <line circular="false" color="#4CA22F" id="40" name="M4">
+      <stop id="542" station="Kelenföld vasútállomás"/>
+      <stop id="543" station="Bikás park"/>
+      <stop id="544" station="Újbuda-központ"/>
+      <stop id="545" station="Móricz Zsigmond körtér"/>
+      <stop id="546" station="Szent Gellért tér - Műegyetem"/>
+      <stop id="547" station="Fővám tér"/>
+      <stop id="531" station="Kálvin tér"/>
+      <stop id="548" station="Rákóczi tér"/>
+      <stop id="549" station="II. János Pál pápa tér"/>
+      <stop id="516" station="Keleti pályaudvar"/>
+    </line>
+    <line circular="false" color="#FFD800" id="41" name="R30">
+      <stop id="372" station="Mester utca / Ferenc körút"/>
+      <stop id="373" station="Bokréta utca"/>
+      <stop id="374" station="Ferencvárosi rendelőintézet"/>
+      <stop id="375" station="Haller utca / Mester utca"/>
+      <stop id="376" station="Vágóhíd utca"/>
+      <stop id="377" station="Mester utca / Könyves Kálmán körút"/>
+      <stop id="10" station="Ferencváros vá. - Málenkij Robot Eh."/>
+    </line>
+  </lines>
+</omm-file>
